@@ -1,0 +1,32 @@
+name: Merge Google Alerts feeds
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Merge feeds
+        run: python3 merge_feeds.py
+
+      - name: Commit updated master feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add master_feed.xml
+          git commit -m "Update master feed ($(date -u +'%Y-%m-%dT%H:%MZ'))" || echo "No changes to commit"
+          git push
