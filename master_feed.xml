@@ -2,8 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mynt — Master News Feed</title>
   <link href="https://myntagency.com"/>
-  <updated>2026-08-20T12:36:43.441442+00:00</updated>
+  <updated>2026-08-20T13:41:15.302618+00:00</updated>
   <id>https://myntagency.com/master</id>
+  <entry>
+    <title>Save Space on Vacation: &lt;b&gt;Skechers&lt;/b&gt;&amp;#39; Rhinestone Sandals Now Just $33 on Amazon</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://shopping.yahoo.com/style/shoes/articles/save-space-vacation-skechers-rhinestone-214500719.html&amp;ct=ga&amp;cd=CAIyGmNhMWJjNjAzZjUxMjg2MGM6Y29tOmVuOlVT&amp;usg=AOvVaw1eVH9ImodYEG2vx8Qun8R9"/>
+    <id>tag:google.com,2013:googlealerts/feed:1662965786832996027</id>
+    <published>2026-08-20T12:57:02Z</published>
+    <updated>2026-08-20T12:57:02Z</updated>
+    <category term="Skechers"/>
+    <content type="html">&lt;b&gt;Skechers&lt;/b&gt; Rumble Sassy Dayz Wedge Sandals, $33 (was $51) at Amazon ... Featuring a lightweight design and a cushioned feel, these sandals are made for&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Libyans bear &lt;b&gt;brunt&lt;/b&gt; of instability, UN envoy says - YouTube</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3Dn6ydQVdrwTQ&amp;ct=ga&amp;cd=CAIyGjY2ZWRlMWYwZThmMzRmNWQ6Y29tOmVuOlVT&amp;usg=AOvVaw1Rp1VntcnVKQ9dhJwbe5wT"/>
+    <id>tag:google.com,2013:googlealerts/feed:15174574780775873113</id>
+    <published>2026-08-20T12:50:08Z</published>
+    <updated>2026-08-20T12:50:08Z</updated>
+    <category term="Brunt"/>
+    <content type="html">Hanna Serwaa Tetteh, the UN secretary-general&amp;#39;s special representative for Libya, says a prolonged heatwave is worsening hardship and exposing&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>&lt;b&gt;Cloudflare&lt;/b&gt; Workers Spectre Exploit Stole Auth Tokens 360× Faster Than Prior Attack</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.techtimes.com/articles/325073/20260820/cloudflare-workers-spectre-exploit-stole-auth-tokens-360-faster-prior-attack.htm&amp;ct=ga&amp;cd=CAIyGmExNTM1NjdmMTJkNWNlNjE6Y29tOmVuOlVT&amp;usg=AOvVaw3dKEapWyOunA3XmlZquF4K"/>
+    <id>tag:google.com,2013:googlealerts/feed:8436355359094441848</id>
+    <published>2026-08-20T12:36:27Z</published>
+    <updated>2026-08-20T12:36:27Z</updated>
+    <category term="Cloudflare"/>
+    <content type="html">&lt;b&gt;Cloudflare&lt;/b&gt; Workers Spectre attack research published August 19, 2026 showed JWT token theft at 12 bits per second in live production -- 360 times&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html&amp;ct=ga&amp;cd=CAIyGmZlNTkzMTJiYjQ1NjQxMTc6Y29tOmVuOlVT&amp;usg=AOvVaw2zFgWhzg2KMqO9perpX5Ao"/>
+    <id>tag:google.com,2013:googlealerts/feed:13473066171511422000</id>
+    <published>2026-08-20T12:29:53Z</published>
+    <updated>2026-08-20T12:29:53Z</updated>
+    <category term="Fastly"/>
+    <content type="html">The attacks, collectively named &amp;quot;CDN Tsunami,&amp;quot; were evaluated against Alibaba, Baidu, Cloudflare, Amazon CloudFront, &lt;b&gt;Fastly&lt;/b&gt;, and Tencent. All six&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>&lt;b&gt;Blue Apron&lt;/b&gt; Sold Its Factories to Go Asset-Light. Now the Boxes Arrive Empty</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://businessmodelanalyst.com/blue-apron-freshrealm-asset-light-fulfillment-collapse/&amp;ct=ga&amp;cd=CAIyGjNiNmIwMzNhYWE1Y2NkYzg6Y29tOmVuOlVT&amp;usg=AOvVaw17w-41j3dPORZJ-uc4EEM3"/>
+    <id>tag:google.com,2013:googlealerts/feed:18319116146874036470</id>
+    <published>2026-08-20T12:25:36Z</published>
+    <updated>2026-08-20T12:25:36Z</updated>
+    <category term="Blue Apron"/>
+    <content type="html">&lt;b&gt;Blue Apron&lt;/b&gt; sold its factories to FreshRealm in 2023 and booked a $48.6M loss. The empty boxes arriving now are that decision landing on a court&amp;#39;s&amp;nbsp;...</content>
+  </entry>
   <entry>
     <title>Chaos Is Contagious and so Is &lt;b&gt;Calm&lt;/b&gt; - Inc. Magazine</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.inc.com/tony-loyd/chaos-is-contagious-and-so-is-calm/91392475&amp;ct=ga&amp;cd=CAIyGjZiZmZhZjY4OWI5MGM3M2Y6Y29tOmVuOlVT&amp;usg=AOvVaw3gfkot2LhzhtHLrQ0hcNuf"/>
@@ -12,6 +57,15 @@
     <updated>2026-08-20T12:17:02Z</updated>
     <category term="Calm"/>
     <content type="html">Chaos Is Contagious and so Is &lt;b&gt;Calm&lt;/b&gt;. What research on emotional contagion means for how you lead through instability. BY TONY LOYD, CEO @HTTPS://X&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>DNC Chair Ken Martin: &amp;#39;I&amp;#39;m not &lt;b&gt;going&lt;/b&gt; anywhere&amp;#39; | CNN Politics</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnn.com/2026/08/20/politics/video/dnc-chair-ken-martin-im-not-going-anywhere-lcl&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw09rzcg07w843JNfnJFkrWr"/>
+    <id>tag:google.com,2013:googlealerts/feed:13483682772067648281</id>
+    <published>2026-08-20T12:16:56Z</published>
+    <updated>2026-08-20T12:16:56Z</updated>
+    <category term="Going"/>
+    <content type="html">Martin tells Laura, “he&amp;#39;s not &lt;b&gt;going&lt;/b&gt; anywhere” and says under his leadership the DNC is raising more money than ever before and winning more elections</content>
   </entry>
   <entry>
     <title>&lt;b&gt;Skechers&lt;/b&gt; kids&amp;#39; school shoes review: comfort that survives the term - Gulf News</title>
@@ -23,6 +77,24 @@
     <content type="html">&lt;b&gt;Skechers&lt;/b&gt; Microstrides Class Spirit review: a practical school shoe with memory foam cushioning, easy fastening and a washable design.</content>
   </entry>
   <entry>
+    <title>Bally&amp;#39;s raises &lt;b&gt;going&lt;/b&gt;-concern doubts after its debt swells and revenue falls - Kansas City ...</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bizjournals.com/kansascity/news/2026/08/20/ballys-going-concern-doubts-casino-debt-crisis.html&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw0TTOjnhdtP1nbw_5BNffQW"/>
+    <id>tag:google.com,2013:googlealerts/feed:3301620063891544486</id>
+    <published>2026-08-20T12:13:21Z</published>
+    <updated>2026-08-20T12:13:21Z</updated>
+    <category term="Going"/>
+    <content type="html">Bally&amp;#39;s Corp., parent of Bally&amp;#39;s Kansas City Casino, disclosed &lt;b&gt;going&lt;/b&gt;-concern doubts after five years of debt-fueled expansion, with Deutsche&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Wonder partners with Serve Robotics on autonomous delivery by sidewalk robots</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://seekingalpha.com/news/4635320-wonder-partners-with-serve-robotics-on-autonomous-delivery-by-sidewalk-robots&amp;ct=ga&amp;cd=CAIyGjNiNmIwMzNhYWE1Y2NkYzg6Y29tOmVuOlVT&amp;usg=AOvVaw1SWuXjWvUeenRvIf9gbBVZ"/>
+    <id>tag:google.com,2013:googlealerts/feed:16943216945334178049</id>
+    <published>2026-08-20T12:09:08Z</published>
+    <updated>2026-08-20T12:09:08Z</updated>
+    <category term="Blue Apron"/>
+    <content type="html">Wonder has been on a M&amp;amp;A spree over the past three years, acquiring meal-kit company &lt;b&gt;Blue Apron&lt;/b&gt; (2023), food-ordering platform Grubhub (2025)&amp;nbsp;...</content>
+  </entry>
+  <entry>
     <title>Tropic Skincare reopens headquarters following phase one of £5 million investment</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://cosmeticsbusiness.com/tropic-skincare-reopens-headquarters&amp;ct=ga&amp;cd=CAIyGjhmOGZhNzBjYzRjNTM1MDE6Y29tOmVuOlVT&amp;usg=AOvVaw3KJXtILbvnFC4MU9DNrA6S"/>
     <id>tag:google.com,2013:googlealerts/feed:714458102532808886</id>
@@ -30,6 +102,15 @@
     <updated>2026-08-20T12:07:48Z</updated>
     <category term="beauty pie"/>
     <content type="html">&lt;b&gt;Beauty Pie&lt;/b&gt; and Tropic Skincare among UK&amp;#39;s fastest-growing women-led businesses. The beauty subscription service and natural skin care brand have&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Under £30 &lt;b&gt;Skechers&lt;/b&gt; trainers are so comfy &amp;#39;you don&amp;#39;t know you&amp;#39;re wearing them&amp;#39; - Daily Star</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.dailystar.co.uk/life-style/under-30-skechers-trainers-comfy-37572596&amp;ct=ga&amp;cd=CAIyGmNhMWJjNjAzZjUxMjg2MGM6Y29tOmVuOlVT&amp;usg=AOvVaw0_fqu2AXAHL-NNhAxk2NaR"/>
+    <id>tag:google.com,2013:googlealerts/feed:8254458981584941924</id>
+    <published>2026-08-20T12:07:41Z</published>
+    <updated>2026-08-20T12:07:41Z</updated>
+    <category term="Skechers"/>
+    <content type="html">The &lt;b&gt;Skechers&lt;/b&gt; Men&amp;#39;s Go Walk Max Adir Trainers in black are currently available from MandM for £29.99, down from £58.99. These low profile lace-up&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>New Museum Puts &lt;b&gt;Jellyfish&lt;/b&gt; in the Spotlight - Austin - KVUE</title>
@@ -104,6 +185,15 @@
     <content type="html">It&amp;#39;s built around commuting, errands and road trips, with fuel economy reaching an EPA-estimated 38 &lt;b&gt;mpg&lt;/b&gt; highway depending on trim. Midnight&amp;nbsp;...</content>
   </entry>
   <entry>
+    <title>&amp;#39;What is &lt;b&gt;going&lt;/b&gt; on?&amp;#39;: Mariners fans react to historic 22-0 loss - KOMO News</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://komonews.com/news/local/seattle-mariners-historic-loss-milwaukee-brewers-major-league-baseball-mlb-1887-franchise-playoffs-chicago-cubs-shutout-professional-sports-postseason-run&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw1EP0Y6sKvPRX7-FLVcmGHq"/>
+    <id>tag:google.com,2013:googlealerts/feed:14077487162273533331</id>
+    <published>2026-08-20T11:22:02Z</published>
+    <updated>2026-08-20T11:22:02Z</updated>
+    <category term="Going"/>
+    <content type="html">&amp;quot;We kind of stopped paying attention,&amp;quot; said Ryan Zmolek, a Mariners fan. &amp;quot;Then it got to a point where we were like, what is &lt;b&gt;going&lt;/b&gt; on?&amp;quot; The game ended&amp;nbsp;...</content>
+  </entry>
+  <entry>
     <title>&lt;b&gt;Sorenson&lt;/b&gt; Communications Recognized by Forbes as One of America&amp;#39;s Best Employers for Women</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/small-business/articles/sorenson-communications-recognized-forbes-one-110000556.html&amp;ct=ga&amp;cd=CAIyGmUyMjY0OTU0MzdmYTVmNGE6Y29tOmVuOlVT&amp;usg=AOvVaw1evGZGyTU34yXcHP6UVUfu"/>
     <id>tag:google.com,2013:googlealerts/feed:14678697734427346579</id>
@@ -111,6 +201,15 @@
     <updated>2026-08-20T11:20:53Z</updated>
     <category term="Sorenson"/>
     <content type="html">&lt;b&gt;Sorenson&lt;/b&gt; Communications, the global leader in accessible communication services for Deaf, DeafBlind and Hard of Hearing (HoH) people,&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Scheffler adds momentum to everything &lt;b&gt;going&lt;/b&gt; for him at BMW Championship</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.newstribune.com/news/2026/aug/20/scheffler-adds-momentum-to-everything-going-for-him-at-bmw-championship/&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw3f4vgg9Qg6kY0hJ2IVLBmF"/>
+    <id>tag:google.com,2013:googlealerts/feed:2031840627308194983</id>
+    <published>2026-08-20T11:15:09Z</published>
+    <updated>2026-08-20T11:15:09Z</updated>
+    <category term="Going"/>
+    <content type="html">Scottie Scheffler is back on top, even if it never felt like he went anywhere. The world No. 1 and FedEx Cup points leader grabbed his first win&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Trump shows off White House renovations and ornate new helipad - The Guardian</title>
@@ -156,6 +255,15 @@
     <updated>2026-08-20T11:04:14Z</updated>
     <category term="lululemon"/>
     <content type="html">WAVY TV 10. 2y · Public &amp;middot; &lt;b&gt;Lululemon&lt;/b&gt; makes some of the best activewear around in tech fabrics that keep you dry during sweaty workout sessions and&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Women&amp;#39;s health care needs &lt;b&gt;going&lt;/b&gt; unmet in S.C., study shows - Charleston City Paper</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://charlestoncitypaper.com/2026/08/19/womens-health-care-needs-going-unmet-in-s-c-study-shows/&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw0mLSj-UQpHOtGboeWWTKKu"/>
+    <id>tag:google.com,2013:googlealerts/feed:16462535474507096260</id>
+    <published>2026-08-20T11:01:45Z</published>
+    <updated>2026-08-20T11:01:45Z</updated>
+    <category term="Going"/>
+    <content type="html">A third of South Carolina women who responded to a nationwide survey said they&amp;#39;ve gone without reproductive health care since 2022.</content>
   </entry>
   <entry>
     <title>Offshore wind, &lt;b&gt;transmission&lt;/b&gt; systems, driving demand for cable-lay vessels - Riviera Maritime Media</title>
@@ -237,6 +345,15 @@
     <updated>2026-08-20T10:43:42Z</updated>
     <category term="SKIMS"/>
     <content type="html">Kim Kardashian styled a $118 semi-sheer &lt;b&gt;SKIMS&lt;/b&gt; cardigan fastened by a single button during a recent tropical vacation.</content>
+  </entry>
+  <entry>
+    <title>Willson Contreras on being booed again, fan altercation: &amp;#39;If you&amp;#39;re a smart fan, you know ...</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.masslive.com/redsox/2026/08/willson-contreras-on-being-booed-again-fan-altercation-if-youre-a-smart-fan-you-know-whats-going-on.html&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw2xK919fgUcsymZYLFdGdNJ"/>
+    <id>tag:google.com,2013:googlealerts/feed:11570321189400100281</id>
+    <published>2026-08-20T10:35:58Z</published>
+    <updated>2026-08-20T10:35:58Z</updated>
+    <category term="Going"/>
+    <content type="html">“I&amp;#39;m not &lt;b&gt;going&lt;/b&gt; to make any excuses because it&amp;#39;s not an excuse. It&amp;#39;s real. I just want to play through it. “It&amp;#39;s just part of the game. I&amp;#39;&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>&lt;b&gt;Vuori&lt;/b&gt; Just Slashed Prices on Dozens of Editor-Tested Workout Fits Ahead of Labor Day</title>
@@ -374,6 +491,15 @@
     <content type="html">NewEdge Wealth LLC bought a new stake in &lt;b&gt;Vertex&lt;/b&gt; Pharmaceuticals Incorporated (NASDAQ:VRTX - Free Report) during the second quarter, according to&amp;nbsp;...</content>
   </entry>
   <entry>
+    <title>Data Centers &lt;b&gt;Going&lt;/b&gt; Off-Grid Doesn&amp;#39;t Make Them Good Neighbors - Bloomberg</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/opinion/articles/2026-08-20/data-centers-going-off-grid-doesn-t-make-them-good-neighbors&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw1Zj7NR-u36BDyYdW4D7Q9d"/>
+    <id>tag:google.com,2013:googlealerts/feed:9568347185464586275</id>
+    <published>2026-08-20T10:07:15Z</published>
+    <updated>2026-08-20T10:07:15Z</updated>
+    <category term="Going"/>
+    <content type="html">Data Centers &lt;b&gt;Going&lt;/b&gt; Off-Grid Doesn&amp;#39;t Make Them Good Neighbors ... Liam Denning is a Bloomberg Opinion columnist covering energy. A former banker, he&amp;nbsp;...</content>
+  </entry>
+  <entry>
     <title>Spain Wildfire | Firefighters Burn Land To Save Communities | Blaze Swallows 3700 Hectares | 4K</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DaCBkadZ3dcc&amp;ct=ga&amp;cd=CAIyGjRjMWUwYTgzMDgwNTlkNjI6Y29tOmVuOlVT&amp;usg=AOvVaw3--8Tm2moWhbifqQk1XKVF"/>
     <id>tag:google.com,2013:googlealerts/feed:606957586359710053</id>
@@ -437,6 +563,15 @@
     <content type="html">&lt;b&gt;MPG&lt;/b&gt; - Minutes Per Game. AST - Assists. APG - Assists Per Game. AST/40 - Assists Per 40 Minutes. TO - Turnovers. TPG - Turnovers Per Game. TO% -&amp;nbsp;...</content>
   </entry>
   <entry>
+    <title>&lt;b&gt;elf Beauty&lt;/b&gt;, Inc. - MSN</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.msn.com/en-nz/money/stockdetails/elf-us-stock/fi-a1runm%3Focid%3DMSEDGDHPHDR&amp;ct=ga&amp;cd=CAIyGjk0ZjBiODdmYzBjMmVjOGE6Y29tOmVuOlVT&amp;usg=AOvVaw1FWsCNiUF-KWTpT_WWWPnO"/>
+    <id>tag:google.com,2013:googlealerts/feed:9387171310870510961</id>
+    <published>2026-08-20T09:58:51Z</published>
+    <updated>2026-08-20T09:58:51Z</updated>
+    <category term="ELF Beauty"/>
+    <content type="html">&lt;b&gt;ELF&amp;#39;s&lt;/b&gt; short-term assets ‎$789.4M exceed its short-term liabilities ‎$336.2M. See more. Financial position analysisPeriod: 2026.</content>
+  </entry>
+  <entry>
     <title>&lt;b&gt;Skims&lt;/b&gt; to open second standalone UK store at Westfield London | Retail Sector</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.retailsector.co.uk/744201-skims-to-open-second-standalone-uk-store-at-westfield-london/&amp;ct=ga&amp;cd=CAIyGmI0MmNjZmNmOGVmNmJkNjk6Y29tOmVuOlVT&amp;usg=AOvVaw3w01tHBwJUIunaG5gc8mCw"/>
     <id>tag:google.com,2013:googlealerts/feed:3688304007421010953</id>
@@ -444,6 +579,15 @@
     <updated>2026-08-20T09:57:42Z</updated>
     <category term="SKIMS"/>
     <content type="html">The opening has been announced by Unibail-Rodamco-Westfield (URW) and Commerz Real and will bring &lt;b&gt;Skims&lt;/b&gt;&amp;#39; range of clothing and lifestyle products to&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Russian missile alert forces Antarctica-bound Air Force flight to turn around</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.stripes.com/branches/air_force/2026-08-20/russia-missile-alert-air-force-flight-22606088.html&amp;ct=ga&amp;cd=CAIyGjg4MTFiNzBlNDc0NWNiMzE6Y29tOmVuOlVT&amp;usg=AOvVaw2MVh4PhmLADpK8LlZt2Io1"/>
+    <id>tag:google.com,2013:googlealerts/feed:7489010524741800493</id>
+    <published>2026-08-20T09:53:50Z</published>
+    <updated>2026-08-20T09:53:50Z</updated>
+    <category term="Stripes"/>
+    <content type="html">... &lt;b&gt;Stripes&lt;/b&gt; since 2003. He has been stationed in Japan, South Korea and Germany, with frequent assignments to Iraq, Afghanistan, Haiti, Australia and&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Experts update Yankees vs. Orioles predictions after Aaron Judge injury update - syracuse.com</title>
@@ -507,6 +651,15 @@
     <updated>2026-08-20T09:46:59Z</updated>
     <category term="REI"/>
     <content type="html">Keen&amp;#39;s Durand EVO hiking boots are now $101 at &lt;b&gt;REI&lt;/b&gt;, down from $210. They&amp;#39;re waterproof, supportive, and have high-traction rubber outsoles.</content>
+  </entry>
+  <entry>
+    <title>Who Should Go 1st Overall and Which Players Are &lt;b&gt;Going&lt;/b&gt; To Be League Winners - NFL.com</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nfl.com/videos/who-should-go-1st-overall-and-which-players-are-going-to-be-league-winners-fantasy-football-show&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw2LKK16FPezqzthCVBSJU-F"/>
+    <id>tag:google.com,2013:googlealerts/feed:13582258299498881</id>
+    <published>2026-08-20T09:43:40Z</published>
+    <updated>2026-08-20T09:43:40Z</updated>
+    <category term="Going"/>
+    <content type="html">Who Should Go 1st Overall and Which Players Are &lt;b&gt;Going&lt;/b&gt; To Be League Winners | Fantasy Football Show.</content>
   </entry>
   <entry>
     <title>Govt woos &lt;b&gt;Canva&lt;/b&gt; Inc. to set up regional hub, AI research centre</title>
@@ -680,6 +833,15 @@
     <content type="html">Beginning this spring, we had an unusual population bloom of lion&amp;#39;s mane &lt;b&gt;jellyfish&lt;/b&gt;. These are the largest &lt;b&gt;jellyfish&lt;/b&gt; in the world, reaching up to 7&amp;nbsp;...</content>
   </entry>
   <entry>
+    <title>First To Know Weather - Storm Chances &lt;b&gt;Going&lt;/b&gt; Up Heat &lt;b&gt;Going&lt;/b&gt; Down - WTXL</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wtxl.com/weather/first-to-know-weather-storm-chances-going-up-heat-going-down&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw3gZqC6XgT1Vv_kWMAFnG_I"/>
+    <id>tag:google.com,2013:googlealerts/feed:2456207450309991252</id>
+    <published>2026-08-20T09:11:28Z</published>
+    <updated>2026-08-20T09:11:28Z</updated>
+    <category term="Going"/>
+    <content type="html">TALLAHASSEE, FL (WTXL) — Temperatures are a little cooler this morning in the low to mid 70s. Skies will start off partly cloudy,&amp;nbsp;...</content>
+  </entry>
+  <entry>
     <title>&lt;b&gt;Benchmade&lt;/b&gt; Osborne Review | Tested &amp;amp; Rated - Outdoor Gear Lab</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.outdoorgearlab.com/reviews/camping-and-hiking/pocket-knife/benchmade-osborne&amp;ct=ga&amp;cd=CAIyGmU3ZDQ0YmY4YjlmMWVmNjI6Y29tOmVuOlVT&amp;usg=AOvVaw3F_Tl_PxnulRhsjzuanOtZ"/>
     <id>tag:google.com,2013:googlealerts/feed:6104767371081161748</id>
@@ -705,6 +867,24 @@
     <updated>2026-08-20T09:03:30Z</updated>
     <category term="Benchmade"/>
     <content type="html">Black blade knife with green and black handle resting on green moss on a wooden surface This is undoubtedly one of &lt;b&gt;Benchmade&amp;#39;s&lt;/b&gt; most recognizable&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Gopher football team hosting an open practice tonight - Minnesota News Network</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://minnesotanewsnetwork.com/40552-2/&amp;ct=ga&amp;cd=CAIyGjE5MDRmZWM3YzBmOWJmNDg6Y29tOmVuOlVT&amp;usg=AOvVaw3dYZfBiNVQ9DTvjHmXSm23"/>
+    <id>tag:google.com,2013:googlealerts/feed:15619722065319019619</id>
+    <published>2026-08-20T09:02:16Z</published>
+    <updated>2026-08-20T09:02:16Z</updated>
+    <category term="Huntington Bank"/>
+    <content type="html">Aug 20, 2026. The Golden Gopher football team is set to host an open practice tonight at &lt;b&gt;Huntington Bank&lt;/b&gt; Stadium. Fans are asked to enter the&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>&lt;b&gt;e.l.f. Cosmetics&lt;/b&gt;&amp;#39; Pickle Lip Balm Returns with 3 Dill-Light Shades | LBBOnline - Little Black Book</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://lbbonline.com/news/elf-Cosmetics-Pickle-Lip-Balm-Returns-with-3-Dill-Light-Shades&amp;ct=ga&amp;cd=CAIyGjk0ZjBiODdmYzBjMmVjOGE6Y29tOmVuOlVT&amp;usg=AOvVaw1_0MflXkh0gQ-ElBoBGQqP"/>
+    <id>tag:google.com,2013:googlealerts/feed:17847807390772482735</id>
+    <published>2026-08-20T09:01:36Z</published>
+    <updated>2026-08-20T09:01:36Z</updated>
+    <category term="ELF Beauty"/>
+    <content type="html">&lt;b&gt;e.l.f. Cosmetics&lt;/b&gt;, a brand from &lt;b&gt;e.l.f. Beauty&lt;/b&gt;, has brought back the highly demanded pickle-inspired Glow Reviver Melting Lip Balm in three limited&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Two Very Exciting Memory Management Optimizations &lt;b&gt;Going&lt;/b&gt; Into Linux 7.3 - Phoronix</title>
@@ -1031,6 +1211,42 @@
     <content type="html">U.S. Treasury buybacks &lt;b&gt;calm&lt;/b&gt; yields, lift stocks Expanded purchases stabilize long-term rates; Moderna jumps 177% after trial success The U.S.&amp;nbsp;...</content>
   </entry>
   <entry>
+    <title>What happens when import prices skyrocket? More inflation, of course - Marketplace</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.marketplace.org/story/2026/08/19/import-prices-are-shooting-up-they-could-fuel-inflation&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw20MIpR0MYdxTE4u_SG90pc"/>
+    <id>tag:google.com,2013:googlealerts/feed:2028870462913674230</id>
+    <published>2026-08-20T08:15:35Z</published>
+    <updated>2026-08-20T08:15:35Z</updated>
+    <category term="Going"/>
+    <content type="html">... &lt;b&gt;going&lt;/b&gt; to feel higher import costs. “We&amp;#39;re still in this environment here of inflation still running fairly hot,” Klachkin said. “And it&amp;#39;s &lt;b&gt;going&lt;/b&gt; to&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Kennedy Center lawyers say Trump&amp;#39;s name &lt;b&gt;going&lt;/b&gt; back up in September | Gephardt Daily</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://gephardtdaily.com/top-stories/kennedy-center-lawyers-say-trumps-name-going-back-up-in-september/&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw26_19mC2e9X9XVCKa7S_oJ"/>
+    <id>tag:google.com,2013:googlealerts/feed:14219663384837616005</id>
+    <published>2026-08-20T08:15:18Z</published>
+    <updated>2026-08-20T08:15:18Z</updated>
+    <category term="Going"/>
+    <content type="html">Aug. 19 (UPI) -- Lawyers for the John F. Kennedy Memorial Center for the Performing Arts notified a federal judge that the facility plans to&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Danske &lt;b&gt;Bank&lt;/b&gt; A S Buys New Stake in &lt;b&gt;Huntington&lt;/b&gt; Bancshares Incorporated $HBAN</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.marketbeat.com/instant-alerts/filing-danske-bank-a-s-buys-new-stake-in-huntington-bancshares-incorporated-hban-2026-08-20/&amp;ct=ga&amp;cd=CAIyGjE5MDRmZWM3YzBmOWJmNDg6Y29tOmVuOlVT&amp;usg=AOvVaw08xwjBtp_SAU7l5hQQ_lYV"/>
+    <id>tag:google.com,2013:googlealerts/feed:9928009328575114173</id>
+    <published>2026-08-20T08:12:32Z</published>
+    <updated>2026-08-20T08:12:32Z</updated>
+    <category term="Huntington Bank"/>
+    <content type="html">Danske &lt;b&gt;Bank&lt;/b&gt; A S purchased a new position in shares of &lt;b&gt;Huntington&lt;/b&gt; Bancshares Incorporated (NASDAQ:HBAN - Free Report) during the second quarter,&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Deutsche &lt;b&gt;Bank&lt;/b&gt; AG Invests $129.34 Million in &lt;b&gt;Huntington&lt;/b&gt; Bancshares Incorporated $HBAN</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.marketbeat.com/instant-alerts/filing-deutsche-bank-ag-invests-12934-million-in-huntington-bancshares-incorporated-hban-2026-08-20/&amp;ct=ga&amp;cd=CAIyGjE5MDRmZWM3YzBmOWJmNDg6Y29tOmVuOlVT&amp;usg=AOvVaw20SGQlji36WUVNwQNEux8_"/>
+    <id>tag:google.com,2013:googlealerts/feed:8774177431213007605</id>
+    <published>2026-08-20T08:12:21Z</published>
+    <updated>2026-08-20T08:12:21Z</updated>
+    <category term="Huntington Bank"/>
+    <content type="html">Deutsche &lt;b&gt;Bank&lt;/b&gt; AG purchased a new position in &lt;b&gt;Huntington&lt;/b&gt; Bancshares Incorporated (NASDAQ:HBAN - Free Report) in the second quarter, according to&amp;nbsp;...</content>
+  </entry>
+  <entry>
     <title>Viral K-beauty serum gets a 10/10 from reviewer in £11.90 &lt;b&gt;Medicube&lt;/b&gt; deal - NationalWorld</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nationalworld.com/recommended/medicube-nad-egf-firming-serum-amazon-deal-8926153&amp;ct=ga&amp;cd=CAIyGmU5OTBhN2Y3MWFiYzY1Y2I6Y29tOmVuOlVT&amp;usg=AOvVaw2UOFifx0EqH8J-fTQrUFVT"/>
     <id>tag:google.com,2013:googlealerts/feed:479184039191002298</id>
@@ -1083,6 +1299,15 @@
     <updated>2026-08-20T07:58:26Z</updated>
     <category term="Transmission"/>
     <content type="html">Supporters say new &lt;b&gt;transmission&lt;/b&gt; lines could strengthen the power grid, while opponents worry about impacts on Texas resources and rural land.</content>
+  </entry>
+  <entry>
+    <title>Newsmakers 11:30a ET — new news — 2026-08-19 • Buttondown</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://buttondown.com/jnemuri/archive/u1f195-newsmakers-1130a-et-new-news-2026-08-19/&amp;ct=ga&amp;cd=CAIyGjNiNmIwMzNhYWE1Y2NkYzg6Y29tOmVuOlVT&amp;usg=AOvVaw1-qcBONc3uRJEJ0rOZ6QvW"/>
+    <id>tag:google.com,2013:googlealerts/feed:15446246702183246757</id>
+    <published>2026-08-20T07:56:21Z</published>
+    <updated>2026-08-20T07:56:21Z</updated>
+    <category term="Blue Apron"/>
+    <content type="html">... &lt;b&gt;Blue Apron&lt;/b&gt; and Marley Spoon. — wsj.com · 08/19 10:57a https://www.wsj.com/business/retail/the-meal-kit-industry-is-in-disarray-after-a-major&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>InterPrac ordered to pay $465k to Shield, First &lt;b&gt;Guardian&lt;/b&gt; victims - IFA</title>
@@ -1355,6 +1580,15 @@
     <content type="html">Matt Wagner is a sports reporter for Stars and &lt;b&gt;Stripes&lt;/b&gt; based in Kaiserslautern, Germany. ... &lt;b&gt;Stripes&lt;/b&gt; and top news outlets from around the world.</content>
   </entry>
   <entry>
+    <title>Quotes &lt;b&gt;Fastly&lt;/b&gt;, Inc. Börse Stuttgart - 2Y7 Stock - MarketScreener</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.marketscreener.com/quote/stock/FASTLY-INC-58136331/quotes/58602329&amp;ct=ga&amp;cd=CAIyGmZlNTkzMTJiYjQ1NjQxMTc6Y29tOmVuOlVT&amp;usg=AOvVaw39Ba0ebKzl4sgVWFCncOhh"/>
+    <id>tag:google.com,2013:googlealerts/feed:4478382796569439320</id>
+    <published>2026-08-20T07:04:59Z</published>
+    <updated>2026-08-20T07:04:59Z</updated>
+    <category term="Fastly"/>
+    <content type="html">&lt;b&gt;Fastly&lt;/b&gt;, Inc.: Delayed Quote, intraday chart, variations, volumes, technical indicators and last transactions, Stock &lt;b&gt;Fastly&lt;/b&gt;,&amp;nbsp;...</content>
+  </entry>
+  <entry>
     <title>10 &lt;b&gt;Quince&lt;/b&gt; Capsule Wardrobe Staples - People.com</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://people.com/capsule-wardrobe-quince-clothing-staples-editor-picks-august-2026-12060091&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw2rb70lryrg7IQCpda196E6"/>
     <id>tag:google.com,2013:googlealerts/feed:15375190603023910496</id>
@@ -1380,6 +1614,15 @@
     <updated>2026-08-20T07:00:44Z</updated>
     <category term="Guardian"/>
     <content type="html">... &lt;b&gt;Guardian&lt;/b&gt; Australia&amp;#39;s community affairs reporter Adeshola Ore traveled to Armidale last month to speak with Joyce and community members, including&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>How Brittany Mahomes&amp;#39; $325 million sports empire is helping bring free youth soccer to Kansas City</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://timesofindia.indiatimes.com/sports/nfl/news/how-brittany-mahomes-325-million-sports-empire-is-helping-bring-free-youth-soccer-to-kansas-city/articleshow/133347613.cms&amp;ct=ga&amp;cd=CAIyGjY2ZWRlMWYwZThmMzRmNWQ6Y29tOmVuOlVT&amp;usg=AOvVaw2KiIuXe_tHn9BWyA658dPC"/>
+    <id>tag:google.com,2013:googlealerts/feed:6900074232516307516</id>
+    <published>2026-08-20T06:52:24Z</published>
+    <updated>2026-08-20T06:52:24Z</updated>
+    <category term="Brunt"/>
+    <content type="html">“Launching the 9th &amp;amp; Van &lt;b&gt;Brunt&lt;/b&gt; Soccer League is a perfect embodiment of the Kansas City Current&amp;#39;s community pillars,” Kansas City Current President&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Fury, disbelief and trauma: Why women bear the &lt;b&gt;brunt&lt;/b&gt; of the Swans crisis - The Age</title>
@@ -1985,15 +2228,6 @@
     <content type="html">&lt;b&gt;Fractured&lt;/b&gt; Odysseus. The psychiatrist Jonathan Shay&amp;#39;s books on Homer are the key to Christopher Nolan&amp;#39;s Odyssey. By Colin Dickey | August 20, 2026.</content>
   </entry>
   <entry>
-    <title>SUV crashes into gas pipeline on Ox Road in Fairfax County - NBC4 Washington</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nbcwashington.com/news/local/northern-virginia/suv-crashes-into-gas-pipeline-on-ox-road-in-fairfax-county/4144002/&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw17uH1oBUWk7bLEmS49NHYT"/>
-    <id>tag:google.com,2013:googlealerts/feed:18056225323092680372</id>
-    <published>2026-08-20T04:11:48Z</published>
-    <updated>2026-08-20T04:11:48Z</updated>
-    <category term="Going"/>
-    <content type="html">Traffic camera video shows the dark gray SUV &lt;b&gt;going&lt;/b&gt; northbound on Ox Road near Burke Center Parkway and veering into the southbound lanes before&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Workload Meeting: NSW Trustee and &lt;b&gt;Guardian&lt;/b&gt;, Estate Planning and Administration</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://psa.asn.au/workload-meeting-nsw-trustee-and-guardian-estate-planning-and-administration/&amp;ct=ga&amp;cd=CAIyGmZlMWYwNmY0NTFlODY0N2U6Y29tOmVuOlVT&amp;usg=AOvVaw2K8pLbYjl6QEuF_rkaLB4c"/>
     <id>tag:google.com,2013:googlealerts/feed:14711724794819088359</id>
@@ -2091,6 +2325,15 @@
     <updated>2026-08-20T03:45:07Z</updated>
     <category term="Bombas"/>
     <content type="html">&lt;b&gt;BOMBAS&lt;/b&gt; UNITED! BALEBA AND MORE! ARSENAL NEXT SIGNING! BARÇA SURPRISE! POGBA FREE, DARWIN, JOÃO… @FabrizioRomanoYT7.9K likes269K views15 hours&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>&lt;b&gt;Elf Beauty&lt;/b&gt; price target raised to $110 from $97 at Canaccord - TipRanks.com</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.tipranks.com/news/the-fly/elf-beauty-price-target-raised-to-110-from-97-at-canaccord-thefly-news%3Fmod%3Dmw_quote_news&amp;ct=ga&amp;cd=CAIyGjk0ZjBiODdmYzBjMmVjOGE6Y29tOmVuOlVT&amp;usg=AOvVaw1_0KKBsJwVmYhafyUJcHsD"/>
+    <id>tag:google.com,2013:googlealerts/feed:719337522904769511</id>
+    <published>2026-08-20T03:43:12Z</published>
+    <updated>2026-08-20T03:43:12Z</updated>
+    <category term="ELF Beauty"/>
+    <content type="html">Canaccord raised the firm&amp;#39;s price target on &lt;b&gt;Elf Beauty&lt;/b&gt; (ELF) to $110 from $97 and keeps a Buy rating on the shares. The fim updated its model&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Padarath: Telecom board orders review of Amplia decision - Trinidad &lt;b&gt;Guardian&lt;/b&gt;</title>
@@ -2255,15 +2498,6 @@
     <content type="html">The average &lt;b&gt;Skechers&lt;/b&gt; U.S.A. Sales Associate in Mansfield, OH earns an estimated $69k annually, which includes an estimated base salary of $56k&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>&amp;#39;She&amp;#39;s still &lt;b&gt;going&lt;/b&gt; to be herself&amp;#39;: Girl with rare genetic disorder reaches new milestones</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.kctv5.com/2026/08/20/shes-still-going-be-herself-girl-with-rare-genetic-disorder-reaches-new-milestones/&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw2dMhPs371UH1hNw8XRyfhs"/>
-    <id>tag:google.com,2013:googlealerts/feed:9309378311295213085</id>
-    <published>2026-08-20T02:53:39Z</published>
-    <updated>2026-08-20T02:53:39Z</updated>
-    <category term="Going"/>
-    <content type="html">Six-year-old Willow, diagnosed with 22q duplication syndrome and autism, continues to hit milestones with help from Children&amp;#39;s Mercy.</content>
-  </entry>
-  <entry>
     <title>&lt;b&gt;Etsy&lt;/b&gt; Inc (&lt;b&gt;ETSY&lt;/b&gt;) Director Marla Blow Sells 300 Shares - GuruFocus</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.gurufocus.com/news/9044379/etsy-inc-etsy-director-marla-blow-sells-300-shares&amp;ct=ga&amp;cd=CAIyGjFlYTU3ZjZiN2UwMjgxYzk6Y29tOmVuOlVT&amp;usg=AOvVaw1wxZDhPgGkV-xd9R5TfEVI"/>
     <id>tag:google.com,2013:googlealerts/feed:8023511023294230863</id>
@@ -2388,15 +2622,6 @@
     <updated>2026-08-20T02:15:05Z</updated>
     <category term="Vertex"/>
     <content type="html">&lt;b&gt;Vertex&lt;/b&gt; Pharmaceuticals reported second quarter 2026 results showcasing continued growth and advancement across its commercial and clinical...</content>
-  </entry>
-  <entry>
-    <title>&lt;b&gt;Going&lt;/b&gt; Ringside Ep. 207: Analyzing Vince McMahon&amp;#39;s current legal status and potential public return</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DappUjW8NoBY&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw3ynLz348O5pMG87zh5q2Bf"/>
-    <id>tag:google.com,2013:googlealerts/feed:8157520042219054653</id>
-    <published>2026-08-20T02:13:39Z</published>
-    <updated>2026-08-20T02:13:39Z</updated>
-    <category term="Going"/>
-    <content type="html">On this episode we return to a topic &lt;b&gt;Going&lt;/b&gt; Ringside has followed for years. The ongoing legal saga of former WWE Owner Vince McMahon the the sex&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>How will Deshaun Watson handle his Browns home debut + previewing Bills joint practice</title>
@@ -2588,15 +2813,6 @@
     <content type="html">&lt;b&gt;Thermo Fisher&lt;/b&gt; Scientific Inc.: , intraday chart, variations, volumes, technical indicators and last transactions, Stock &lt;b&gt;Thermo Fisher&lt;/b&gt; Scientific&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Aaron Korolnek doesn&amp;#39;t think the Chiefs are &lt;b&gt;going&lt;/b&gt; to make the playoffs in 2026 - YouTube</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/shorts/luaqdOgGEKs&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw2s37TvSv5OCVsttWjHRyK7"/>
-    <id>tag:google.com,2013:googlealerts/feed:6677888932084523297</id>
-    <published>2026-08-20T01:36:50Z</published>
-    <updated>2026-08-20T01:36:50Z</updated>
-    <category term="Going"/>
-    <content type="html">Aaron Korolnek doesn&amp;#39;t think the Chiefs are &lt;b&gt;going&lt;/b&gt; to make the playoffs in 2026 #OverDrive. 1. 0. Share. Video unavailable.</content>
-  </entry>
-  <entry>
     <title>Paintball assault suspects identified with help from Flock cameras, Asheville police say</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://wlos.com/news/local/asheville-flock-cameras-paintball-assaults-juvenile-suspects-west-asheville-haywood-road&amp;ct=ga&amp;cd=CAIyGmUzNDZiNzM5ZDhkNTVmMTY6Y29tOmVuOlVT&amp;usg=AOvVaw3ASISfPto9x-xIcGQEas18"/>
     <id>tag:google.com,2013:googlealerts/feed:1615377785467218701</id>
@@ -2622,6 +2838,15 @@
     <updated>2026-08-20T01:30:59Z</updated>
     <category term="Canva"/>
     <content type="html">By using the Service, you agree that these terms will become a legally binding agreement between you and the &lt;b&gt;Canva&lt;/b&gt; Contracting Entity identified in&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Canaccord raises &lt;b&gt;e.l.f. Beauty&lt;/b&gt; stock price target on growth outlook - Investing.com ZA</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://za.investing.com/news/stock-market-news/canaccord-raises-elf-beauty-stock-price-target-on-growth-outlook-93CH-4435513&amp;ct=ga&amp;cd=CAIyGjk0ZjBiODdmYzBjMmVjOGE6Y29tOmVuOlVT&amp;usg=AOvVaw2nzcBYl8tzZb7JPnZ45wL2"/>
+    <id>tag:google.com,2013:googlealerts/feed:688290879756421789</id>
+    <published>2026-08-20T01:30:10Z</published>
+    <updated>2026-08-20T01:30:10Z</updated>
+    <category term="ELF Beauty"/>
+    <content type="html">The price target increase follows &lt;b&gt;e.l.f. Beauty&amp;#39;s&lt;/b&gt; first-quarter fiscal 2027 earnings report. Canaccord hosted a discussion with Chairman and CEO&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Deshaun Watson Says He Doesn&amp;#39;t Care How Browns Fans Greet Him - Yahoo Sports</title>
@@ -2903,15 +3128,6 @@
     <content type="html">Expanded assortments, broader distribution through new &lt;b&gt;Fanatics&lt;/b&gt; partnership and season-long activations bring Abercrombie to more customers and&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>&amp;#39;It&amp;#39;s just &lt;b&gt;going&lt;/b&gt; to get busier&amp;#39;: El Niño brings sharks to Calif.&amp;#39;s coast - SFGATE</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sfgate.com/travel/article/el-nino-sharks-california-22395572.php&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw1AI2Lm1sLKLnk0pJyOyPNT"/>
-    <id>tag:google.com,2013:googlealerts/feed:11404379949394892919</id>
-    <published>2026-08-20T00:44:14Z</published>
-    <updated>2026-08-20T00:44:14Z</updated>
-    <category term="Going"/>
-    <content type="html">“It&amp;#39;s just &lt;b&gt;going&lt;/b&gt; to get busier as the summer and fall wears on due to the forthcoming strong El Niño,” Christopher Lowe, a marine biology professor&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Pennsylvania Pushback Against Data Centers Takes 2 New Tacks - RTO Insider</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.rtoinsider.com/139859-pennsylvania-pushback-against-data-centers/&amp;ct=ga&amp;cd=CAIyGmI0MzY4NzdhMmQwYjk1OTA6Y29tOmVuOlVT&amp;usg=AOvVaw38lLTd1ot2Q2AhLidMKOaI"/>
     <id>tag:google.com,2013:googlealerts/feed:9901805303470658777</id>
@@ -2939,6 +3155,15 @@
     <content type="html">... &lt;b&gt;Carnegie&lt;/b&gt; — but &lt;b&gt;Carnegie&amp;#39;s&lt;/b&gt; own meticulously kept visitor records show the two men never met. A self-help empire built on a meeting that never&amp;nbsp;...</content>
   </entry>
   <entry>
+    <title>palmeraj - Lawyer Monthly</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lawyer-monthly.com/author/palmeraj/&amp;ct=ga&amp;cd=CAIyGmMxNGFhOTYzMTc3Y2ZhZTU6Y29tOmVuOlVT&amp;usg=AOvVaw16F09bBeHe6Jdk4TR7mIwA"/>
+    <id>tag:google.com,2013:googlealerts/feed:11077428011625255563</id>
+    <published>2026-08-20T00:38:47Z</published>
+    <updated>2026-08-20T00:38:47Z</updated>
+    <category term="Legora"/>
+    <content type="html">&lt;b&gt;Legora&lt;/b&gt; is in early-stage discussions with investors over financing at a valuation of at least $10bn, with the talks potentially involving both new&amp;nbsp;...</content>
+  </entry>
+  <entry>
     <title>Barchiesi Autopsy: Extensive Jaw and Nose &lt;b&gt;Fractures&lt;/b&gt;. Funeral Tomorrow - 08/19/2026</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DmCBA1h6Ww7A&amp;ct=ga&amp;cd=CAIyGmI0NzQ3NWE1NDhhZDZmYTg6Y29tOmVuOlVT&amp;usg=AOvVaw3IxCZIEUFX2jEpU017tC7G"/>
     <id>tag:google.com,2013:googlealerts/feed:10251283228762602411</id>
@@ -2948,15 +3173,6 @@
     <content type="html">Barchiesi Autopsy: Extensive Jaw and Nose &lt;b&gt;Fractures&lt;/b&gt;. Funeral Tomorrow - 08/19/2026. @Teleregionetv12 likes115 views12 hours ago</content>
   </entry>
   <entry>
-    <title>Lake Tahoe leaders push to keep conservation investments &lt;b&gt;going&lt;/b&gt; | abc10.com</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.abc10.com/video/news/politics/lake-tahoe-leaders-push-to-keep-conservation-investments-going/103-937d11db-3536-4e55-ba6b-227a5d0ade03&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw3sCw1I8B1Trrty2Tr3I8Pu"/>
-    <id>tag:google.com,2013:googlealerts/feed:3686237865515687329</id>
-    <published>2026-08-20T00:36:08Z</published>
-    <updated>2026-08-20T00:36:08Z</updated>
-    <category term="Going"/>
-    <content type="html">The 30th annual Lake Tahoe Summit brought CA and NV lawmakers, tribal leaders and others together to discuss protecting the lake and its&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Shop a Hailey Bieber-Inspired White T-Shirt at &lt;b&gt;Quince&lt;/b&gt; - People.com</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://people.com/hailey-bieber-white-t-shirt-quince-clothing-12063519&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw05aEzLFabI297yJqJnkSAT"/>
     <id>tag:google.com,2013:googlealerts/feed:15753319609781627173</id>
@@ -2964,15 +3180,6 @@
     <updated>2026-08-20T00:34:06Z</updated>
     <category term="Quince"/>
     <content type="html">Considering the crew-neckline, capped sleeves, and breathable material, this T-shirt from &lt;b&gt;Quince&lt;/b&gt; is nearly identical to Bieber&amp;#39;s pick. The cotton-and&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Reinier de Ridder on Roman Dolidze: &amp;#39;I&amp;#39;m &lt;b&gt;going&lt;/b&gt; to kill this motherf*cker&amp;#39; | UFC Sacramento</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DHw14nBDuCBw&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw0bRLkbS--ecNIR_7EImVim"/>
-    <id>tag:google.com,2013:googlealerts/feed:12938568198128388413</id>
-    <published>2026-08-20T00:33:34Z</published>
-    <updated>2026-08-20T00:33:34Z</updated>
-    <category term="Going"/>
-    <content type="html">Reinier de Ridder on Roman Dolidze: &amp;#39;I&amp;#39;m &lt;b&gt;going&lt;/b&gt; to kill this motherf*cker&amp;#39; | UFC Sacramento. @MMAJunkieOfficial41 likes1K views4 hours ago</content>
   </entry>
   <entry>
     <title>&lt;b&gt;Liberty&lt;/b&gt; Broadband Corporation(NasdaqGS: LBRD.A) dropped from S&amp;amp;P &lt;b&gt;Global&lt;/b&gt; BMI Index</title>
@@ -3074,15 +3281,6 @@
     <content type="html">Lower revenues and higher AI costs are challenges for Australian design software company &lt;b&gt;Canva&lt;/b&gt; to maintain growth as it mulls IPO.</content>
   </entry>
   <entry>
-    <title>Muscatine&amp;#39;s power grid &lt;b&gt;going&lt;/b&gt; through upgrade for more reliability – WHBF - OurQuadCities</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ourquadcities.com/video/muscatines-power-grid-going-through-upgrade-for-more-reliability/12085391/&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw11xw-IPmukkuJRV5mrNUAv"/>
-    <id>tag:google.com,2013:googlealerts/feed:15466940885430969628</id>
-    <published>2026-08-20T00:18:50Z</published>
-    <updated>2026-08-20T00:18:50Z</updated>
-    <category term="Going"/>
-    <content type="html">Local News ; Our QC+ Easy to Download &amp;middot; 7 months ago ; After Tyson plant closes in Joslin, Henry County … &amp;middot; 22 hours ago ; Muscatine&amp;#39;s power grid &lt;b&gt;going&lt;/b&gt;&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>NHL to debut new &amp;#39;Hometown Remix&amp;#39; sweaters this season - Sportsnet.ca</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sportsnet.ca/nhl/article/nhl-to-debut-new-hometown-remix-sweaters-this-season/&amp;ct=ga&amp;cd=CAIyGjgzYjdkN2EwODAyODY2NzU6Y29tOmVuOlVT&amp;usg=AOvVaw1WEX7GY4PEpZuEhTA45_TG"/>
     <id>tag:google.com,2013:googlealerts/feed:1368385487362438366</id>
@@ -3117,15 +3315,6 @@
     <updated>2026-08-20T00:04:54Z</updated>
     <category term="Wayfair"/>
     <content type="html">On August 19, 2026, &lt;b&gt;Wayfair&lt;/b&gt; Inc (W) shares rose 6.0% today, bringing the current price to $107.80. Over the past year, the stock has traded&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Muscatine&amp;#39;s power grid &lt;b&gt;going&lt;/b&gt; through upgrade for more reliability | OurQuadCities</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ourquadcities.com/news/local-news/muscatines-power-grid-going-through-upgrade-for-more-reliability/&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw3zxKB-VIkbtLkulohNXJQp"/>
-    <id>tag:google.com,2013:googlealerts/feed:1285825665891818355</id>
-    <published>2026-08-20T00:03:49Z</published>
-    <updated>2026-08-20T00:03:49Z</updated>
-    <category term="Going"/>
-    <content type="html">For Muscatine Power and Water (MPW), reliable power is key. They are tasked with keeping homes comfortable and Muscatine&amp;#39;s large industrial&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>#&lt;b&gt;steno&lt;/b&gt; #caala2026 #legaltech #litigation | &lt;b&gt;Steno&lt;/b&gt; - LinkedIn</title>
@@ -3218,15 +3407,6 @@
     <content type="html">The &lt;b&gt;marine layer&lt;/b&gt; will continue to impact the Central Coast each night and morning, providing natural cooling for immediate coastal zones. This pattern&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>[Podcast] Private Market Talks: Why Private Markets Are &lt;b&gt;Going&lt;/b&gt; Mainstream with VanEck&amp;#39;s ...</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.jdsupra.com/legalnews/podcast-private-market-talks-why-3513662/&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw2WuCsKY4YHanL7chtGID8f"/>
-    <id>tag:google.com,2013:googlealerts/feed:16390560887358273910</id>
-    <published>2026-08-19T23:50:17Z</published>
-    <updated>2026-08-19T23:50:17Z</updated>
-    <category term="Going"/>
-    <content type="html">So, we were both &lt;b&gt;going&lt;/b&gt; through interesting things back then, but I&amp;#39;ve had a lot of exposure to Proskauer and continue to be a proud client for more&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>As Ukraine&amp;#39;s troop needs grow, women step into the fight | Stars and &lt;b&gt;Stripes&lt;/b&gt;</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.stripes.com/theaters/europe/2026-08-19/ukraine-troops-women-step-into-fight-22599194.html&amp;ct=ga&amp;cd=CAIyGjg4MTFiNzBlNDc0NWNiMzE6Y29tOmVuOlVT&amp;usg=AOvVaw2edXkTtlhiJXGjTWxcBziS"/>
     <id>tag:google.com,2013:googlealerts/feed:18009703927810159707</id>
@@ -3279,15 +3459,6 @@
     <updated>2026-08-19T23:45:32Z</updated>
     <category term="Huntington Bank"/>
     <content type="html">Applications open for 2026 Youth Hockey Scholarship presented by &lt;b&gt;Huntington Bank&lt;/b&gt; August 18, 2026. Spirit announce &amp;#39;Spirit of Service: 25 Days, 25&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Trump says he&amp;#39;s &lt;b&gt;going&lt;/b&gt; to meet with North Korea leader Kim Jong Un - YouTube</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DRTeKMWuet6U&amp;ct=ga&amp;cd=CAIyGjk5YjNhMGY5OGFhZTA0ZDE6Y29tOmVuOlVT&amp;usg=AOvVaw0NHqcxfCl6dMP5RNTOVG83"/>
-    <id>tag:google.com,2013:googlealerts/feed:11063810358735370963</id>
-    <published>2026-08-19T23:44:58Z</published>
-    <updated>2026-08-19T23:44:58Z</updated>
-    <category term="Going"/>
-    <content type="html">President Donald Trump during an impromptu gaggle after a tour of the South Lawn construction spoke to reporters on the last-minute negotiations&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Rebel &lt;b&gt;Creamery&lt;/b&gt; filed for bankruptcy protection after it was ordered to pay nearly $24 million ...</title>
@@ -5052,15 +5223,6 @@
     <updated>2026-08-19T21:00:59Z</updated>
     <category term="Stars and Stripes"/>
     <content type="html">Longtime &lt;b&gt;Stars and Stripes&lt;/b&gt; publisher Max D. Lederer Jr. has announced his retirement. The development comes as Defense Secretary Pete Hegseth&amp;#39;s&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Longtime publisher of Stars and &lt;b&gt;Stripes&lt;/b&gt; to retire, citing differences with Pentagon leadership</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://apnews.com/article/stars-stripes-pentagon-publisher-retire-journalism-policy-ae5277e248f51d10dfcb49d7796e7d2f&amp;ct=ga&amp;cd=CAIyGjg4MTFiNzBlNDc0NWNiMzE6Y29tOmVuOlVT&amp;usg=AOvVaw3BiXjvNLxp95P0Ngd0E-zt"/>
-    <id>tag:google.com,2013:googlealerts/feed:7914568333734700703</id>
-    <published>2026-08-19T21:00:59Z</published>
-    <updated>2026-08-19T21:00:59Z</updated>
-    <category term="Stripes"/>
-    <content type="html">Longtime Stars and &lt;b&gt;Stripes&lt;/b&gt; publisher Max D. Lederer Jr. has announced his retirement. The development comes as Defense Secretary Pete Hegseth&amp;#39;s&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>ABC-7 welcomes home Mauricio Casillas as new evening anchor - KVIA</title>
@@ -6926,15 +7088,6 @@
     <content type="html">“The Odyssey begins at Troy and is ultimately a story about the longing to &lt;b&gt;return home&lt;/b&gt;,” Boz said. “It would be fitting if the extraordinary&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>&lt;b&gt;ELF&lt;/b&gt; Maintained by Canaccord Genuity -- Price Target Raised to $1 - GuruFocus</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.gurufocus.com/news/9043736/elf-maintained-by-canaccord-genuity-price-target-raised-to-110&amp;ct=ga&amp;cd=CAIyGjk0ZjBiODdmYzBjMmVjOGE6Y29tOmVuOlVT&amp;usg=AOvVaw1Pq5KW19uuQJnNrn0trPYb"/>
-    <id>tag:google.com,2013:googlealerts/feed:16401507708888591680</id>
-    <published>2026-08-19T19:01:41Z</published>
-    <updated>2026-08-19T19:01:41Z</updated>
-    <category term="ELF Beauty"/>
-    <content type="html">&lt;b&gt;e.l.f. Beauty&lt;/b&gt; (ELF) Analyst Rating Update On October 3, 2023, &lt;b&gt;e.l.f. Beauty&lt;/b&gt; (ELF) received a &amp;quot;Buy&amp;quot; rating from Canaccord Genuity, with analyst&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Lewis &lt;b&gt;Gurney&lt;/b&gt; v Llew Bevan Livescore | Darts - Flashscore</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.flashscore.co.uk/match/darts/bevan-llew-KO9AbOnb/gurney-lewis-zuWhCB5G/&amp;ct=ga&amp;cd=CAIyGjAxNTFlMDc0NWUyYTMxYWI6Y29tOmVuOlVT&amp;usg=AOvVaw2Sn2ItPvjZpr4J7hFQ8ohN"/>
     <id>tag:google.com,2013:googlealerts/feed:4820532396110697613</id>
@@ -7212,15 +7365,6 @@
     <updated>2026-08-19T18:41:48Z</updated>
     <category term="Raising Canes"/>
     <content type="html">Holland Township could soon welcome the community&amp;#39;s very own &lt;b&gt;Raising Cane&amp;#39;s&lt;/b&gt;. Austin Metz. More Videos. Paint a Pot expands again on Eighth Street.</content>
-  </entry>
-  <entry>
-    <title>Meet Gregory Fenelon, the (self-declared) $14bn man - Financial Times</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ft.com/content/89d82561-089a-4723-9111-2fdd30552412&amp;ct=ga&amp;cd=CAIyGjk0ZjBiODdmYzBjMmVjOGE6Y29tOmVuOlVT&amp;usg=AOvVaw3zsQlOFSpjSWXNRQCnbOjD"/>
-    <id>tag:google.com,2013:googlealerts/feed:16277847152380478357</id>
-    <published>2026-08-19T18:41:04Z</published>
-    <updated>2026-08-19T18:41:04Z</updated>
-    <category term="ELF Beauty"/>
-    <content type="html">Uber … Ulta &lt;b&gt;Beauty&lt;/b&gt; Inc $0.36bn Ma… TKO Group Holdings Inc Class A $1.85bn &lt;b&gt;elf Beauty&lt;/b&gt; Inc $0.41bn Hyatt Hotels Corp Class A $0.38bn Vita Coco…</content>
   </entry>
   <entry>
     <title>New guide aimed at &amp;#39;bringing lifestyle medicine into workplaces&amp;#39; - Safety+Health Magazine</title>
@@ -7626,15 +7770,6 @@
     <updated>2026-08-19T18:12:41Z</updated>
     <category term="Rosetta Stone"/>
     <content type="html">Watters: The left has found its &lt;b&gt;Rosetta Stone&lt;/b&gt;. August 17, 2026. Trump intensifies pressure on Iran as Strait of Hormuz standoff escalates. 3:15&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>The Estée Lauder Companies Posts 6% Q4 Sales Growth as Fragrance Momentum Drives ...</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ouispeakfashion.com/estee-lauder-q4-fy2026-earnings/&amp;ct=ga&amp;cd=CAIyGjk0ZjBiODdmYzBjMmVjOGE6Y29tOmVuOlVT&amp;usg=AOvVaw2yAOz-sCl2oyp6XGmkpRYT"/>
-    <id>tag:google.com,2013:googlealerts/feed:5238237781889499985</id>
-    <published>2026-08-19T18:12:30Z</published>
-    <updated>2026-08-19T18:12:30Z</updated>
-    <category term="ELF Beauty"/>
-    <content type="html">&lt;b&gt;e.l.f. Beauty&lt;/b&gt; Posts 36% Net Sales Growth, Marks 30 Consecutive Quarters of Gains. OSF Team August 6, 2026. Chanel &amp;middot; Chanel&amp;#39;s First&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Ninth Circuit &lt;b&gt;Wayfair&lt;/b&gt; Lawsuit Under CIPA - The National Law Review</title>
@@ -8076,15 +8211,6 @@
     <updated>2026-08-19T17:44:48Z</updated>
     <category term="Canva"/>
     <content type="html">Slow Children sign | Image by &lt;b&gt;Canva&lt;/b&gt;; blue background, image by &lt;b&gt;Canva&lt;/b&gt;. Two Dallas ISD middle school students were struck by a vehicle in a possible&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>I Just Think You Should Know About These 41 Cheaper Versions Of Brand-Name Products ...</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.buzzfeed.com/emmalord9/cheaper-versions-know-about-august-2026-an&amp;ct=ga&amp;cd=CAIyGjk0ZjBiODdmYzBjMmVjOGE6Y29tOmVuOlVT&amp;usg=AOvVaw0TI5KyxiZrv2cd9W-q6j7k"/>
-    <id>tag:google.com,2013:googlealerts/feed:3311673983923009229</id>
-    <published>2026-08-19T17:44:38Z</published>
-    <updated>2026-08-19T17:44:38Z</updated>
-    <category term="ELF Beauty"/>
-    <content type="html">As a Senior Shopping Writer at BuzzFeed, I specialize in a broad range of topics, including &lt;b&gt;beauty&lt;/b&gt; ... &lt;b&gt;E.l.f.&lt;/b&gt; Glow Reviver Slipstick, a new&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Forman Mills Moves into a New Location &amp;amp; Delivers New Jobs with the Same Great Savings!</title>
@@ -8699,15 +8825,6 @@
     <content type="html">... at Crestview Cemetery in Markey Township, Roscommon County. &lt;b&gt;Sorenson&lt;/b&gt;-Lockwood Funeral Home handled the.</content>
   </entry>
   <entry>
-    <title>Cleveland Browns unveil 21-foot Immersive Cube at new stadium sales centre</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://app.dealroom.co/news/feed/cleveland-browns-unveil-21-foot-immersive-cube-at-new-stadium-sales-centre&amp;ct=ga&amp;cd=CAIyGjE5MDRmZWM3YzBmOWJmNDg6Y29tOmVuOlVT&amp;usg=AOvVaw3dhwONZ1oKRkyeC_Okyo5N"/>
-    <id>tag:google.com,2013:googlealerts/feed:15622516039718474200</id>
-    <published>2026-08-19T16:52:32Z</published>
-    <updated>2026-08-19T16:52:32Z</updated>
-    <category term="Huntington Bank"/>
-    <content type="html">Advent has unveiled an Immersive Cube installation for the Cleveland Browns&amp;#39; new &lt;b&gt;Huntington Bank&lt;/b&gt; Field development in Brook Park, Ohio.</content>
-  </entry>
-  <entry>
     <title>Hayden Panettiere&amp;#39;s Death And Past &lt;b&gt;Addiction&lt;/b&gt; Struggles</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.addictioncenter.com/news/2026/08/hayden-panettieres-addiction-struggles/&amp;ct=ga&amp;cd=CAIyGjUyMmQ3NTdhYjY4NDk1Nzk6Y29tOmVuOlVT&amp;usg=AOvVaw3h3kFXvGC5BHdSeamObfo8"/>
     <id>tag:google.com,2013:googlealerts/feed:10433109175003940424</id>
@@ -8906,15 +9023,6 @@
     <content type="html">Fire behaviour across the Brunswick Complex on Wednesday (Aug. 19) is expected to be similar to Tuesday (Aug. 18), according to the latest update&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Browns vs. Bills How to Watch, Listen &amp;amp; Live Stream</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.clevelandbrowns.com/news/browns-vs-bills-how-to-watch-listen-live-stream-x0168&amp;ct=ga&amp;cd=CAIyGjE5MDRmZWM3YzBmOWJmNDg6Y29tOmVuOlVT&amp;usg=AOvVaw2z-DTkHgukUGbeovumKFWV"/>
-    <id>tag:google.com,2013:googlealerts/feed:9849689529702026696</id>
-    <published>2026-08-19T16:32:42Z</published>
-    <updated>2026-08-19T16:32:42Z</updated>
-    <category term="Huntington Bank"/>
-    <content type="html">The Cleveland Browns will host the Bills at &lt;b&gt;Huntington Bank&lt;/b&gt; Field on Saturday, Aug. 22, 2026 at 1 p.m. ET. Where to watch the Browns on TV. Pregame&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Sung Sikyung, &lt;b&gt;DinDin&lt;/b&gt; join Disney+ spin-off variety &amp;#39;Shinppal Stay&amp;#39; | allkpop</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.allkpop.com/article/2026/08/sung-sikyung-dindin-join-disney-spin-off-variety-shinppal-stay&amp;ct=ga&amp;cd=CAIyGjg5MWE1MjE0NmJhNzgwNGE6Y29tOmVuOlVT&amp;usg=AOvVaw2hg3Vul93BC_dtv9Q_EdW6"/>
     <id>tag:google.com,2013:googlealerts/feed:4567494762181005005</id>
@@ -9057,15 +9165,6 @@
     <updated>2026-08-19T16:24:01Z</updated>
     <category term="Upstart"/>
     <content type="html">SoFi Technologies, Inc. SOFI and &lt;b&gt;Upstart&lt;/b&gt; Holdings, Inc. UPST both sit at the intersection of consumer lending and financial technology.</content>
-  </entry>
-  <entry>
-    <title>Ex-Veritex exec scouts for more Texas M&amp;amp;A | &lt;b&gt;Banking&lt;/b&gt; Dive</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bankingdive.com/news/ex-veritex-exec-scouts-for-more-texas-ma/828248/&amp;ct=ga&amp;cd=CAIyGjE5MDRmZWM3YzBmOWJmNDg6Y29tOmVuOlVT&amp;usg=AOvVaw1mfIXAxKjtBTLgJw0ihbMh"/>
-    <id>tag:google.com,2013:googlealerts/feed:14859484106976403776</id>
-    <published>2026-08-19T16:23:03Z</published>
-    <updated>2026-08-19T16:23:03Z</updated>
-    <category term="Huntington Bank"/>
-    <content type="html">... bank acquisitions in about 15 years. Veritex was acquired by Columbus, Ohio-based &lt;b&gt;Huntington Bank&lt;/b&gt; last year. Kesler sees Future Financial&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>&lt;b&gt;Cursor&amp;#39;s&lt;/b&gt; Origin hits GitHub on its worst day | The Rundown AI</title>
@@ -10733,15 +10832,6 @@
     <content type="html">&lt;b&gt;REI&lt;/b&gt; is offering up to 40% off select Patagonia jackets and gear, featuring versatile, durable outdoor layers for fall.</content>
   </entry>
   <entry>
-    <title>A24&amp;#39;s &amp;#39;Club Kid&amp;#39; trailer teases Jordan Firstman&amp;#39;s Cannes hit | Mashable</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://mashable.com/entertainment/club-kid-trailer-a24&amp;ct=ga&amp;cd=CAIyGjAxYzhjNjMyNTlhODVmMDE6Y29tOmVuOlVT&amp;usg=AOvVaw28tMMiIB2VYl7bCt6ita_h"/>
-    <id>tag:google.com,2013:googlealerts/feed:17094366325416785075</id>
-    <published>2026-08-19T13:31:24Z</published>
-    <updated>2026-08-19T13:31:24Z</updated>
-    <category term="Crown Affair"/>
-    <content type="html">Michael B. Jordan&amp;#39;s &amp;#39;The Thomas &lt;b&gt;Crown Affair&lt;/b&gt;&amp;#39; trailer makes that getaway van Gogh.</content>
-  </entry>
-  <entry>
     <title>Warne Legacy reaping benefits - Pharmacy Daily</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://pharmacydaily.com.au/news/warne-legacy-reaping-benefits/122132&amp;ct=ga&amp;cd=CAIyGjlmMjY2ODRmOWE3NDdlN2I6Y29tOmVuOlVT&amp;usg=AOvVaw031wVBfX7VVW0_7juVcmll"/>
     <id>tag:google.com,2013:googlealerts/feed:4715355867492602545</id>
@@ -10850,15 +10940,6 @@
     <content type="html">A published author. Liane remembers the moment she found out she had landed a book deal for her first-ever published novel – &lt;b&gt;Three Wishes&lt;/b&gt;. Or&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Aldi&amp;#39;s new robot vacuum can sweep, vacuum, and mop – and it&amp;#39;s less than £70</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.independent.co.uk/extras/indybest/house-garden/vacuum-cleaners/aldi-robot-vacuum-b3034777.html&amp;ct=ga&amp;cd=CAIyGmQxMzQ5NGRkMTgwOGEyYTA6Y29tOmVuOlVT&amp;usg=AOvVaw1kdV7_9POLBvbgGf7ysN9f"/>
-    <id>tag:google.com,2013:googlealerts/feed:4173868464792263963</id>
-    <published>2026-08-19T13:10:42Z</published>
-    <updated>2026-08-19T13:10:42Z</updated>
-    <category term="Dyson"/>
-    <content type="html">Here are some of the top picks. best robot vacuum cleaner indybest review &lt;b&gt;Dyson&lt;/b&gt; Spot+Scrup Ai. &lt;b&gt;Dyson&lt;/b&gt; Spot+Scrub Ai. Our best overall robot vacuum&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Ahead of the Curve 2026: ACC Guards, Part Two</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.noceilingsnba.com/p/ahead-of-the-curve-2026-acc-guards-8e2&amp;ct=ga&amp;cd=CAIyGjIwMGU4NmMzMzQwMzFkMzQ6Y29tOmVuOlVT&amp;usg=AOvVaw3aGBh5XRdH8yk7sa3KT9k4"/>
     <id>tag:google.com,2013:googlealerts/feed:3397030395806460072</id>
@@ -10877,15 +10958,6 @@
     <content type="html">&lt;b&gt;Vital Proteins&lt;/b&gt; has returned as the Official Collagen Partner of the US Open for a second year and is also serving as the Presenting Sponsor of the&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>&lt;b&gt;Tovala&lt;/b&gt; and Fly By Jing Bring Chili Crisp to the Dinner Table with New Chef-Crafted Meals</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.prnewswire.com/news-releases/tovala-and-fly-by-jing-bring-chili-crisp-to-the-dinner-table-with-new-chef-crafted-meals-302854726.html&amp;ct=ga&amp;cd=CAIyGjZlYTdlOTRhMjFkZTI2YWU6Y29tOmVuOlVT&amp;usg=AOvVaw3KdNpmUplhpvR01r6w-BD3"/>
-    <id>tag:google.com,2013:googlealerts/feed:5247074179440189492</id>
-    <published>2026-08-19T13:06:40Z</published>
-    <updated>2026-08-19T13:06:40Z</updated>
-    <category term="Tovala"/>
-    <content type="html">PRNewswire/ -- &lt;b&gt;Tovala&lt;/b&gt;, the smart oven company making it easier to enjoy fresh, flavorful meals at home, today announced its latest collaboration&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>The Hari Gets IHG&amp;#39;s Luxury Muscle Behind It</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.luxurytraveladvisor.com/hotels/hari-sparkle-gets-ihg-muscle-behind-it&amp;ct=ga&amp;cd=CAIyGjg5YWY5YWQ4ODQ3ZmE3YTQ6Y29tOmVuOlVT&amp;usg=AOvVaw29FgPLDB6blsc7TkdYuksw"/>
     <id>tag:google.com,2013:googlealerts/feed:13483241397446392279</id>
@@ -10902,15 +10974,6 @@
     <updated>2026-08-19T13:04:21Z</updated>
     <category term="Seed Health"/>
     <content type="html">Democratic Republic of the Congo: More than 80,000 people receive&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>3 underrated fan features that take cooling your home to the next level - T3</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.t3.com/home-living/appliances/3-underrated-fan-features-that-take-cooling-your-home-to-the-next-level&amp;ct=ga&amp;cd=CAIyGmQxMzQ5NGRkMTgwOGEyYTA6Y29tOmVuOlVT&amp;usg=AOvVaw07_G9tKXtxbdfqHJXva9tn"/>
-    <id>tag:google.com,2013:googlealerts/feed:15111376676619569121</id>
-    <published>2026-08-19T13:02:52Z</published>
-    <updated>2026-08-19T13:02:52Z</updated>
-    <category term="Dyson"/>
-    <content type="html">While &lt;b&gt;Dyson&lt;/b&gt; fans have LCD screens and button controls, they don&amp;#39;t actually change your fan&amp;#39;s settings, unless you try this trick. Sign up to the T3&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Z.ai says GLM-5.3 lifts coding and cyber tests, flags &lt;b&gt;Cursor&lt;/b&gt; vulnerability - digitimes</title>
@@ -10967,15 +11030,6 @@
     <content type="html">Watters: The left has found its &lt;b&gt;Rosetta Stone&lt;/b&gt;. August 17, 2026. Trump intensifies pressure on Iran as Strait of Hormuz standoff escalates. 2:56&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>&lt;b&gt;Vital Farms&lt;/b&gt;: The Recovery Is Starting, But I Need More Proof - Seeking Alpha</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://seekingalpha.com/article/4938192-vital-farms-stock-recovery-starting-but-need-more-proof&amp;ct=ga&amp;cd=CAIyGjdlNWEyZTM5YzhlN2ZlY2I6Y29tOmVuOlVT&amp;usg=AOvVaw3nCHZ8x5N6otwiX5LsUmsa"/>
-    <id>tag:google.com,2013:googlealerts/feed:5973624811785535478</id>
-    <published>2026-08-19T12:56:15Z</published>
-    <updated>2026-08-19T12:56:15Z</updated>
-    <category term="Vital Farms"/>
-    <content type="html">&lt;b&gt;Vital Farms&lt;/b&gt; (VITL) Q2 results: revenue down, margins and cash flow pressured, but guidance reaffirmed.</content>
-  </entry>
-  <entry>
     <title>&lt;b&gt;Seed&lt;/b&gt; Treatment Companies: Top Players &amp;amp; Market Leaders - MarketsandMarkets</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.marketsandmarkets.com/blog/FB/seed-treatment-companies&amp;ct=ga&amp;cd=CAIyGjc1ZDg1M2ZkYjkxNDJlNDk6Y29tOmVuOlVT&amp;usg=AOvVaw2Rt62_fx87nmx8dbPJuf2p"/>
     <id>tag:google.com,2013:googlealerts/feed:66147214707465213</id>
@@ -11012,15 +11066,6 @@
     <content type="html">Marriott&amp;#39;s The Luxury &lt;b&gt;Collection&lt;/b&gt; has launched new Expeditions, which take travelers far beyond the &lt;b&gt;hotel&lt;/b&gt; or resort and into the heart of the&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>JisuLife Handheld Fan Ultra2 vs. &lt;b&gt;Dyson&lt;/b&gt; HushJet Cool Mini Comparison Review - YugaTech</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.yugatech.com/comparisons/jisulife-handheld-fan-ultra2-vs-dyson-hushjet-cool-mini-comparison-review/&amp;ct=ga&amp;cd=CAIyGmQxMzQ5NGRkMTgwOGEyYTA6Y29tOmVuOlVT&amp;usg=AOvVaw1FSYYR648PICAK9OYipxx3"/>
-    <id>tag:google.com,2013:googlealerts/feed:4807910900326943531</id>
-    <published>2026-08-19T12:48:30Z</published>
-    <updated>2026-08-19T12:48:30Z</updated>
-    <category term="Dyson"/>
-    <content type="html">&lt;b&gt;Dyson&lt;/b&gt;, meanwhile, is renowned for its engineering expertise and premium design philosophy in the home appliance industry, which it carried into&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>&lt;b&gt;Senior&lt;/b&gt; Citizen Card 2026: Check Benefits and Who Can Apply? - CAclubindia</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.caclubindia.com/articles/senior-citizen-card-2026-check-benefits-and-who-can-apply-56108.asp&amp;ct=ga&amp;cd=CAIyGjRmYTdlODYzOWEyMDZlZTI6Y29tOmVuOlVT&amp;usg=AOvVaw3ghRN44byd96KWM4lP-5Ro"/>
     <id>tag:google.com,2013:googlealerts/feed:536155101863353048</id>
@@ -11030,15 +11075,6 @@
     <content type="html">No advance tax: &lt;b&gt;Seniors&lt;/b&gt; without business/&lt;b&gt;professional&lt;/b&gt; income are fully exempt from advance tax under the proviso to Section 207 - no interest under&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Shop TODAY Hair Awards: The Best Hair Styling Tools in 2026</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.today.com/shop/best-styling-tools-hair-awards-2026-rcna592190&amp;ct=ga&amp;cd=CAIyGjAxYzhjNjMyNTlhODVmMDE6Y29tOmVuOlVT&amp;usg=AOvVaw1NYLucLbvjypkWRW1mIC8J"/>
-    <id>tag:google.com,2013:googlealerts/feed:5466597428166833691</id>
-    <published>2026-08-19T12:41:46Z</published>
-    <updated>2026-08-19T12:41:46Z</updated>
-    <category term="Crown Affair"/>
-    <content type="html">&lt;b&gt;Crown Affair&lt;/b&gt; The Hair Towel &amp;middot; &lt;b&gt;Crown Affair&lt;/b&gt; The Hair Towel. Save hover ... &lt;b&gt;Crown Affair&amp;#39;s&lt;/b&gt; The Hair Towel reigns on top. Here&amp;#39;s why it delivers&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Olivia Rodrigo&amp;#39;s Plunging Imitation of Christ Micro Minidress Dips Ultra Low - AOL.com</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.aol.com/articles/olivia-rodrigo-plunging-imitation-christ-060143000.html&amp;ct=ga&amp;cd=CAIyGjJlNTE3NDA3YTI5MjdkNWY6Y29tOmVuOlVT&amp;usg=AOvVaw30FwlOkvdTbMXsSp0hGpZ2"/>
     <id>tag:google.com,2013:googlealerts/feed:6166073572126736069</id>
@@ -11046,24 +11082,6 @@
     <updated>2026-08-19T12:39:07Z</updated>
     <category term="The RealReal"/>
     <content type="html">According to the fashion account that identified the look, the vintage Imitation of Christ A-line dress was listed at $225 on &lt;b&gt;The RealReal&lt;/b&gt;.</content>
-  </entry>
-  <entry>
-    <title>This affordable luxury brand is secretly stashed with quality supplements for way less - NY Post</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://nypost.com/2026/08/19/shopping/quince-is-secretly-stashed-with-quality-supplements-for-way-less/&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw1WhweWd5xdS_0iK0PTDidM"/>
-    <id>tag:google.com,2013:googlealerts/feed:8916227345839571443</id>
-    <published>2026-08-19T12:37:20Z</published>
-    <updated>2026-08-19T12:37:20Z</updated>
-    <category term="Quince"/>
-    <content type="html">&lt;b&gt;Quince&lt;/b&gt; may be known for it&amp;#39;s affordable luxury selection of clothing and household goods, but the &lt;b&gt;Quince&lt;/b&gt; supplements are not to be missed.</content>
-  </entry>
-  <entry>
-    <title>IVE&amp;#39;s &lt;b&gt;Rei&lt;/b&gt; named global ambassador for AGE20&amp;#39;S rebranding - allkpop</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.allkpop.com/article/2026/08/ives-rei-named-global-ambassador-for-age20s-rebranding&amp;ct=ga&amp;cd=CAIyGmU5ZDVkY2Q1ODAxNTdmNTQ6Y29tOmVuOlVT&amp;usg=AOvVaw2GnDw0-W-HYhZ6zKnTW4-A"/>
-    <id>tag:google.com,2013:googlealerts/feed:8967766572170945050</id>
-    <published>2026-08-19T12:35:23Z</published>
-    <updated>2026-08-19T12:35:23Z</updated>
-    <category term="REI"/>
-    <content type="html">IVE fans have a new reason to take notice as AGE20&amp;#39;S has officially appointed the group&amp;#39;s &lt;b&gt;Rei&lt;/b&gt; as its global ambassador, signaling the start of a&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>GLM-5.3 hits the API at $1.4/$4.4 per million tokens | VentureBeat</title>
@@ -11147,24 +11165,6 @@
     <content type="html">&lt;b&gt;DaVita&lt;/b&gt; stock is trading after a Q2 2026 report that showed $3.55 billion in revenue and $4.02 in adjusted EPS, while the shares closed at $176.70&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Fake AI &amp;#39;podcast bros&amp;#39; are piling up Facebook views with bogus relationship advice</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.thecooldown.com/green-tech/fake-ai-podcast-bros-facebook-relationship-advice/&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw0HFA5e7S2nuMMNhen8KrCp"/>
-    <id>tag:google.com,2013:googlealerts/feed:8948231418823499984</id>
-    <published>2026-08-19T12:24:21Z</published>
-    <updated>2026-08-19T12:24:21Z</updated>
-    <category term="Quince"/>
-    <content type="html">For crafty households, that can lower material costs because the main input is often something already on hand. TCD Picks » &lt;b&gt;Quince&lt;/b&gt; Spotlight. These&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Moderna shares surge as melanoma vaccine with Merck succeeds in large trial - Reuters</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.reuters.com/legal/litigation/merck-moderna-say-melanoma-skin-cancer-vaccine-meets-goals-large-trial-2026-08-19/&amp;ct=ga&amp;cd=CAIyGjgwY2Q1ZmZiZjAyYjAyNGM6Y29tOmVuOlVT&amp;usg=AOvVaw2UrkS4GOd881Vascjn4yvx"/>
-    <id>tag:google.com,2013:googlealerts/feed:16324947103575626986</id>
-    <published>2026-08-19T12:23:40Z</published>
-    <updated>2026-08-19T12:23:40Z</updated>
-    <category term="Vial"/>
-    <content type="html">Illustration shows Merck logo, &lt;b&gt;vial&lt;/b&gt; and syringe. Item 1 of 2 People pose with syringe with needle in front of displayed Moderna logo in this&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Evacuation orders lifted for majority of Summerland properties | &lt;b&gt;Revelstoke&lt;/b&gt; Review</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://revelstokereview.com/2026/08/18/evacuation-orders-lifted-for-majority-of-summerland-properties/&amp;ct=ga&amp;cd=CAIyGmJlOWU0NzRlOGMxMDdmNTQ6Y29tOmVuOlVT&amp;usg=AOvVaw3w_F-emqeRv4kOHbI80VqX"/>
     <id>tag:google.com,2013:googlealerts/feed:5990710394292401931</id>
@@ -11174,33 +11174,6 @@
     <content type="html">Most Summerland residents are able to return to their homes in the aftermath of the Bald Range wildfire. The municipality lifted the evacuation&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>New wildfire being held near Bradley Creek blaze west of Vernon | &lt;b&gt;Revelstoke&lt;/b&gt; Review</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://revelstokereview.com/2026/08/18/new-wildfire-being-held-near-bradley-creek-blaze-west-of-vernon/&amp;ct=ga&amp;cd=CAIyGmJlOWU0NzRlOGMxMDdmNTQ6Y29tOmVuOlVT&amp;usg=AOvVaw0gq9uE_W6j8VnoxuSSOk_A"/>
-    <id>tag:google.com,2013:googlealerts/feed:15319284101545547107</id>
-    <published>2026-08-19T12:20:27Z</published>
-    <updated>2026-08-19T12:20:27Z</updated>
-    <category term="Revelstoke"/>
-    <content type="html">The spot-sized wildfire was discovered Tuesday afternoon, Aug. 18. It was classified by BC Wildfire Service as being held around 2 p.m., meaning the&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Evacuated residents begin to return home as B.C. wildfires ease | &lt;b&gt;Revelstoke&lt;/b&gt; Review</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://revelstokereview.com/2026/08/18/evacuated-residents-begin-to-return-home-as-b-c-wildfires-ease/&amp;ct=ga&amp;cd=CAIyGmJlOWU0NzRlOGMxMDdmNTQ6Y29tOmVuOlVT&amp;usg=AOvVaw0YwE7qZYyvdJJTSWdRai8y"/>
-    <id>tag:google.com,2013:googlealerts/feed:10507391134748811489</id>
-    <published>2026-08-19T12:20:27Z</published>
-    <updated>2026-08-19T12:20:27Z</updated>
-    <category term="Revelstoke"/>
-    <content type="html">B.C. residents are beginning to be allowed back to their properties as wildfire evacuation orders are downgraded in several parts of the province,&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Area Restriction Order issued for Ainslie Creek wildfire, burning near Highway 1 in Fraser Canyon</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://revelstokereview.com/2026/08/18/area-restriction-order-issued-for-ainslie-creek-wildfire-burning-near-highway-1-in-fraser-canyon/&amp;ct=ga&amp;cd=CAIyGmJlOWU0NzRlOGMxMDdmNTQ6Y29tOmVuOlVT&amp;usg=AOvVaw15-Syb3YjEcbJqZdkXW18Y"/>
-    <id>tag:google.com,2013:googlealerts/feed:6268811021328911781</id>
-    <published>2026-08-19T12:20:27Z</published>
-    <updated>2026-08-19T12:20:27Z</updated>
-    <category term="Revelstoke"/>
-    <content type="html">eEdition &amp;middot; Newsletter Sign-Up &amp;middot; Events. Our Company. About Us &amp;middot; Contact Us &amp;middot; Advertising &amp;middot; Join Our Team. © 2026 &lt;b&gt;Revelstoke&lt;/b&gt; Review. Privacy Policy.</content>
-  </entry>
-  <entry>
     <title>Top 5 Pre-Owned 2023 Hybrids That Defy Fuel Pump Price Spikes | Streamline</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://streamlinefeed.co.ke/news/top-5-pre-owned-2023-hybrids-that-defy-fuel-pump-price-spikes&amp;ct=ga&amp;cd=CAIyGjIwMGU4NmMzMzQwMzFkMzQ6Y29tOmVuOlVT&amp;usg=AOvVaw14__WCbQ-BVy_qCUQlWuOW"/>
     <id>tag:google.com,2013:googlealerts/feed:15830481921904912916</id>
@@ -11208,15 +11181,6 @@
     <updated>2026-08-19T12:20:24Z</updated>
     <category term="MPG"/>
     <content type="html">1. 2023 Toyota Prius — ~57 &lt;b&gt;MPG&lt;/b&gt;. The 2023 redesign fundamentally transformed the Prius from a purely utilitarian appliance into a strikingly aggressive&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Amazon&amp;#39;s Arch Support &lt;b&gt;Skechers&lt;/b&gt; Make Long Dog Walks a Lot More Comfortable</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://pethelpful.com/shopping/amazon-skechers-arch-fit-arcade-cuddle-step-slip-ins&amp;ct=ga&amp;cd=CAIyGmNhMWJjNjAzZjUxMjg2MGM6Y29tOmVuOlVT&amp;usg=AOvVaw2fRXpyqmwlTVC2q-_wqxxx"/>
-    <id>tag:google.com,2013:googlealerts/feed:16328683363641788132</id>
-    <published>2026-08-19T12:19:25Z</published>
-    <updated>2026-08-19T12:19:25Z</updated>
-    <category term="Skechers"/>
-    <content type="html">&lt;b&gt;Skechers&lt;/b&gt;&amp;#39; Arch Fit Slip-ins offer podiatrist-approved arch support, cushioned comfort and hands-free convenience for long dog walks and busy days.</content>
   </entry>
   <entry>
     <title>&lt;b&gt;Liberty Global&lt;/b&gt; Tech Ventures joins USD 400 mln funding round for AI video and image ...</title>
@@ -11300,33 +11264,6 @@
     <content type="html">Sara Aparaciois the resident cleaning expert at &lt;b&gt;Homeaglow&lt;/b&gt;. &amp;middot; Valentina Rios is a residential cleaning specialist and the general manager at Oakville&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Shoppers Wore This &amp;#39;Chic and Comfortable&amp;#39; Jacket in Torrential Downpour and &amp;#39;Did Not Get Wet&amp;#39;</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.travelandleisure.com/quince-oversized-rain-jacket-restock-august-2026-12062426&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw39GygcEXcfuDdnEqpbVsxi"/>
-    <id>tag:google.com,2013:googlealerts/feed:438078733887982409</id>
-    <published>2026-08-19T12:10:44Z</published>
-    <updated>2026-08-19T12:10:44Z</updated>
-    <category term="Quince"/>
-    <content type="html">&lt;b&gt;Quince&lt;/b&gt; restocked its best-selling oversized rain jacket in time for fall trips. The petite-friendly layer packs down small in your suitcase and&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>&lt;b&gt;Vital Farms&lt;/b&gt; Q2 revenue down 10%, gross margin c... - Pluang</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://pluang.com/en/news-feed/vital-farms-pemulihan-mulai-tapi-perlu-bukti-lebih&amp;ct=ga&amp;cd=CAIyGjdlNWEyZTM5YzhlN2ZlY2I6Y29tOmVuOlVT&amp;usg=AOvVaw2zAxp0LvLMb8E-sEQk2jww"/>
-    <id>tag:google.com,2013:googlealerts/feed:556795704021906090</id>
-    <published>2026-08-19T12:10:18Z</published>
-    <updated>2026-08-19T12:10:18Z</updated>
-    <category term="Vital Farms"/>
-    <content type="html">&lt;b&gt;Vital Farms&lt;/b&gt; reported a tough Q2 with revenue falling 10% year-over-year and gross margin dropping sharply to 6.6%, alongside significant cash burn&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>A Frenchwoman at a Gallery Opening Asked If My &lt;b&gt;Quince&lt;/b&gt; Bag Was The Row</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://nymag.com/strategist/article/quince-penelope-bag-review.html&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw289CT4nPar2vamDLK1wBvB"/>
-    <id>tag:google.com,2013:googlealerts/feed:507134844374378651</id>
-    <published>2026-08-19T12:07:44Z</published>
-    <updated>2026-08-19T12:07:44Z</updated>
-    <category term="Quince"/>
-    <content type="html">While testing &lt;b&gt;Quince&amp;#39;s&lt;/b&gt; Penelope Large Shoulder Bag as part of an ongoing search for a new, more sophisticated workbag, a very stylish woman asked&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Shop 12 &lt;b&gt;Vuori&lt;/b&gt; Sale Finds—Fitness Instructor Approved - Real Simple</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.realsimple.com/vuori-fitness-instructor-sale-picks-august-2026-12062777&amp;ct=ga&amp;cd=CAIyGjE0OTBlNDMzMDY0OTgwYTk6Y29tOmVuOlVT&amp;usg=AOvVaw3jy1l4VOiJvC5Eu_MyYy_U"/>
     <id>tag:google.com,2013:googlealerts/feed:11869437537518576823</id>
@@ -11361,15 +11298,6 @@
     <updated>2026-08-19T12:05:48Z</updated>
     <category term="Hotel Collection"/>
     <content type="html">The Luxury &lt;b&gt;Collection&lt;/b&gt; launches 10 curated journeys across North America, Europe, Asia, and the Caribbean, positioning its &lt;b&gt;hotels&lt;/b&gt; as gateways to&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Will the future of gaming be powered by &lt;b&gt;upstart&lt;/b&gt; indie developers? - AOL.com</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.aol.co.uk/articles/future-gaming-powered-upstart-indie-115014000.html&amp;ct=ga&amp;cd=CAIyGmJiMmFlOWJjZDVlMjgxYmY6Y29tOmVuOlVT&amp;usg=AOvVaw2mAmDI0Y0AVXPacMr7Mbau"/>
-    <id>tag:google.com,2013:googlealerts/feed:13406296785216139458</id>
-    <published>2026-08-19T12:03:45Z</published>
-    <updated>2026-08-19T12:03:45Z</updated>
-    <category term="Upstart"/>
-    <content type="html">Will the future of gaming be powered by &lt;b&gt;upstart&lt;/b&gt; indie developers? The Guardian. Keith Stuart. Updated Wed, 19 August 2026 at 4:52 am GMT-7. 0. The&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Twosome Place opens first U.S. location in Old Town Alexandria - The Business Journals</title>
@@ -11435,15 +11363,6 @@
     <content type="html">Jeremy Clarkson explains how he beat hosepipe ban to keep pub garden green &amp;middot; &lt;b&gt;The Farmer&amp;#39;s Dog&lt;/b&gt; owner explains how his pub garden has stayed &amp;#39;weirdly&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Shark just debuted its own version of the &lt;b&gt;Dyson&lt;/b&gt; Submarine – and upgrades it with an ...</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://shopping.yahoo.com/home-garden/cleaning/articles/shark-just-debuted-own-version-093000803.html&amp;ct=ga&amp;cd=CAIyGmQxMzQ5NGRkMTgwOGEyYTA6Y29tOmVuOlVT&amp;usg=AOvVaw23s4DjduucOUFNYfbZiGHP"/>
-    <id>tag:google.com,2013:googlealerts/feed:6400469847557746050</id>
-    <published>2026-08-19T11:55:34Z</published>
-    <updated>2026-08-19T11:55:34Z</updated>
-    <category term="Dyson"/>
-    <content type="html">Wet-to-dry vacuums have been around for a while, but they had a resurgence in the past couple of years, thanks to &lt;b&gt;Dyson&lt;/b&gt;. Most notably, the brand&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Kenny &lt;b&gt;Dyson&lt;/b&gt; Jr. signs with Vikings - FantasyPros</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fantasypros.com/nfl/news/603224/kenny-dyson-jr-signs-with-vikings.php&amp;ct=ga&amp;cd=CAIyGmQxMzQ5NGRkMTgwOGEyYTA6Y29tOmVuOlVT&amp;usg=AOvVaw2F53aBoUpz7INgtlt-g_3t"/>
     <id>tag:google.com,2013:googlealerts/feed:9811227225129010633</id>
@@ -11498,42 +11417,6 @@
     <content type="html">Wrango, the healthcare marketing platform purpose-built for &lt;b&gt;verified healthcare&lt;/b&gt; provider (HCP) activation and clinical measurement, and OpenX, The&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Trevor Lane Picked To Lead JCIDC | The Crothersville Times</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://crothersvilletimes.com/trevor-lane-picked-to-lead-jcidc/&amp;ct=ga&amp;cd=CAIyGjdlNWEyZTM5YzhlN2ZlY2I6Y29tOmVuOlVT&amp;usg=AOvVaw2zhUxwSP-EqFO1T40UihnT"/>
-    <id>tag:google.com,2013:googlealerts/feed:12551509962208233841</id>
-    <published>2026-08-19T11:45:57Z</published>
-    <updated>2026-08-19T11:45:57Z</updated>
-    <category term="Vital Farms"/>
-    <content type="html">... &lt;b&gt;Vital Farms&lt;/b&gt;. He has established business relationships in international ... Lane and his wife, Pamela, manage a 500-acre family cattle and grain farm in&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Buy 2 AI-&lt;b&gt;Led&lt;/b&gt; Mid-Cap Laggards of 2026 That Have Solid Upside Potential - Zacks</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.zacks.com/stock/news/2976759/buy-2-ai-led-mid-cap-laggards-of-2026-that-have-solid-upside-potential&amp;ct=ga&amp;cd=CAIyGmNmNDM0N2M5ZDhjYzZhYWM6Y29tOmVuOlVT&amp;usg=AOvVaw2UCHOzqP_xfGyQNpQZpjCo"/>
-    <id>tag:google.com,2013:googlealerts/feed:6276794960010813473</id>
-    <published>2026-08-19T11:45:13Z</published>
-    <updated>2026-08-19T11:45:13Z</updated>
-    <category term="LED Technologies"/>
-    <content type="html">... &lt;b&gt;technologies&lt;/b&gt; and the sharing of information they collect with third parties. ... Buy 2 AI-&lt;b&gt;Led&lt;/b&gt; Mid-Cap Laggards of 2026 That Have Solid Upside Potential.</content>
-  </entry>
-  <entry>
-    <title>Amgen (AMGN), &lt;b&gt;Quince&lt;/b&gt; Therapeutics (QNCX) and Ocular Therapeutix (OCUL) - The Globe and Mail</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theglobeandmail.com/investing/markets/stocks/AMGN/pressreleases/3926279/analysts-have-conflicting-sentiments-on-these-healthcare-companies-amgen-amgn-quince-therapeutics-qncx-and-ocular-therapeutix-ocul/&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw3kBqTjE0Q7-u-iWsUfnRjC"/>
-    <id>tag:google.com,2013:googlealerts/feed:3471988380629876005</id>
-    <published>2026-08-19T11:37:48Z</published>
-    <updated>2026-08-19T11:37:48Z</updated>
-    <category term="Quince"/>
-    <content type="html">Please see disclaimer. Analysts Have Conflicting Sentiments on These Healthcare Companies: Amgen (AMGN), &lt;b&gt;Quince&lt;/b&gt; Therapeutics&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Rs 1 lakh-a-&lt;b&gt;vial&lt;/b&gt; cancer drugs meant for Rajasthan patients found in Delhi black market</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.moneycontrol.com/news/india/1-lakh-a-vial-cancer-drugs-meant-for-rajasthan-patients-found-in-delhi-racket-probe-ordered-14010495.html&amp;ct=ga&amp;cd=CAIyGjgwY2Q1ZmZiZjAyYjAyNGM6Y29tOmVuOlVT&amp;usg=AOvVaw0c4HuFb7VsiydVlZnijphY"/>
-    <id>tag:google.com,2013:googlealerts/feed:10440777005643628781</id>
-    <published>2026-08-19T11:37:39Z</published>
-    <updated>2026-08-19T11:37:39Z</updated>
-    <category term="Vial"/>
-    <content type="html">The Rajasthan government has ordered an inquiry into the supply and distribution of expensive cancer medicines after Delhi Police recovered &lt;b&gt;vials&lt;/b&gt;&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Vikings Add Kenny &lt;b&gt;Dyson&lt;/b&gt; After Productive UFL Season - Roundtable</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://roundtable.io/sports/nfl/vikings/news/vikings-add-kenny-dyson-after-productive-ufl-season&amp;ct=ga&amp;cd=CAIyGmQxMzQ5NGRkMTgwOGEyYTA6Y29tOmVuOlVT&amp;usg=AOvVaw2eXYr6ckNcMOVXoQhTBUuS"/>
     <id>tag:google.com,2013:googlealerts/feed:12378616470177950003</id>
@@ -11550,15 +11433,6 @@
     <updated>2026-08-19T11:33:34Z</updated>
     <category term="Cursor"/>
     <content type="html">&lt;b&gt;Cursor&lt;/b&gt; now hosts code as well. The startup behind the most popular AI editor launched its Origin product as an early beta this past Monday and is&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>&lt;b&gt;WeWork&lt;/b&gt; Global sells 2.52% stake in &lt;b&gt;WeWork&lt;/b&gt; India for INR 244 crore - Prop News Time</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://propnewstime.com/latestnewsstories/MzQ3NTg%3D/wework-global-sells-2-52--stake-in-wework-india-for-inr-244-crore&amp;ct=ga&amp;cd=CAIyGjFjYjNiZjY5OWI2ZTU4ZDg6Y29tOmVuOlVT&amp;usg=AOvVaw3wC1uNh_n-G2HjIwhwGRy3"/>
-    <id>tag:google.com,2013:googlealerts/feed:16342943239196987736</id>
-    <published>2026-08-19T11:32:41Z</published>
-    <updated>2026-08-19T11:32:41Z</updated>
-    <category term="WeWork"/>
-    <content type="html">&lt;b&gt;WeWork&lt;/b&gt; Global offloads a stake worth INR 244.14 crore in &lt;b&gt;WeWork&lt;/b&gt; India, trimming its holding to 12.3% while staying the top shareholder.</content>
   </entry>
   <entry>
     <title>&lt;b&gt;Hair Restoration&lt;/b&gt; Market Demonstrates Long-Term Growth Potential At 11.9% CAGR</title>
@@ -11586,15 +11460,6 @@
     <updated>2026-08-19T11:29:30Z</updated>
     <category term="DuckDuckGo"/>
     <content type="html">New &lt;b&gt;DuckDuckGo&lt;/b&gt; update on iOS lets you customize the existing shortcut options within the address bar &amp;amp; toolbar; various new options added.</content>
-  </entry>
-  <entry>
-    <title>&lt;b&gt;REI&lt;/b&gt;, Patagonia, Merrell, and Yeti gear to grab for fall hikes, camping, and tailgates</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://10best.usatoday.com/travel/hiking-outdoor-gear-for-fall/&amp;ct=ga&amp;cd=CAIyGmU5ZDVkY2Q1ODAxNTdmNTQ6Y29tOmVuOlVT&amp;usg=AOvVaw0ZBPmX5YjE99NREKnanFe0"/>
-    <id>tag:google.com,2013:googlealerts/feed:14910215313161019020</id>
-    <published>2026-08-19T11:27:33Z</published>
-    <updated>2026-08-19T11:27:33Z</updated>
-    <category term="REI"/>
-    <content type="html">The boots come in several colors and sizes for both men and women. Shop Salomon at &lt;b&gt;REI&lt;/b&gt;. The Merrell Agility Peak&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Page 144 | Stone Fox Capital&amp;#39;s Analysis | Seeking Alpha</title>
@@ -11813,15 +11678,6 @@
     <content type="html">“Hand Picked &lt;b&gt;Hotels&lt;/b&gt; is a remarkable &lt;b&gt;collection&lt;/b&gt; of &lt;b&gt;hotels&lt;/b&gt; which I have admired for many years,” said Stembridge. “With no two &lt;b&gt;hotels&lt;/b&gt; quite the same&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Capital raising in healthtech: Kāhu SiliconBio, Mirae, DITTO - Healthcare Today</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://healthcaretoday.com/article/capital-raising-in-healthtech-kahu-siliconbio-mirae-ditto&amp;ct=ga&amp;cd=CAIyGjc1ZDg1M2ZkYjkxNDJlNDk6Y29tOmVuOlVT&amp;usg=AOvVaw0qSjUUtX1o9jbRJcLES4_S"/>
-    <id>tag:google.com,2013:googlealerts/feed:14734602367482768740</id>
-    <published>2026-08-19T10:32:33Z</published>
-    <updated>2026-08-19T10:32:33Z</updated>
-    <category term="Seed Health"/>
-    <content type="html">... &lt;b&gt;health&lt;/b&gt; supplements to precision siRNA therapeutics ... AI-driven speciality care platform Mirae has raised $5.4 million (£4.2 million) in &lt;b&gt;seed&lt;/b&gt; funding&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>&lt;b&gt;Legora&lt;/b&gt; AI Day at Bucerius Law School: preparing the next generation of lawyers</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://legora.com/blog/legora-ai-day-at-bucerius-law-school-preparing-the-next-generation-of-lawyers&amp;ct=ga&amp;cd=CAIyGmMxNGFhOTYzMTc3Y2ZhZTU6Y29tOmVuOlVT&amp;usg=AOvVaw16enQmfRntHmZWFG31T1mJ"/>
     <id>tag:google.com,2013:googlealerts/feed:13412535534501721929</id>
@@ -11874,24 +11730,6 @@
     <updated>2026-08-19T10:10:14Z</updated>
     <category term="Fitness Connection"/>
     <content type="html">&lt;b&gt;Planet Fitness&lt;/b&gt; Securities Fraud Class Action over 31% Stock Drop is Ongoing – Contact BFA Law before September 14 Deadline...</content>
-  </entry>
-  <entry>
-    <title>Coworking Spaces Industry Trends &amp;amp; Leading Key Players - SNS Insider</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.snsinsider.com/blogs/coworking-spaces-industry&amp;ct=ga&amp;cd=CAIyGjFjYjNiZjY5OWI2ZTU4ZDg6Y29tOmVuOlVT&amp;usg=AOvVaw3WeDji9KWLzNKr5qiCaAbj"/>
-    <id>tag:google.com,2013:googlealerts/feed:6412708082710879455</id>
-    <published>2026-08-19T10:05:55Z</published>
-    <updated>2026-08-19T10:05:55Z</updated>
-    <category term="WeWork"/>
-    <content type="html">&lt;b&gt;WeWork&lt;/b&gt; still stands out in the international coworking industry, providing collaborative spaces, private offices, meeting rooms, and flexible&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>[News] TDK acquires assets from OQmented to advance AR display &lt;b&gt;technologies&lt;/b&gt;</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ledinside.com/news/2026/8/2026_08_19_01&amp;ct=ga&amp;cd=CAIyGmNmNDM0N2M5ZDhjYzZhYWM6Y29tOmVuOlVT&amp;usg=AOvVaw1JdVSk_P23y0GHh8zj2EyG"/>
-    <id>tag:google.com,2013:googlealerts/feed:16171125732745603085</id>
-    <published>2026-08-19T10:05:03Z</published>
-    <updated>2026-08-19T10:05:03Z</updated>
-    <category term="LED Technologies"/>
-    <content type="html">By combining TDK&amp;#39;s eye intent technology, FCLM, MEMS mirror, and other technologies ... Technology Patents to Leading U.S. &lt;b&gt;LED Technology&lt;/b&gt; Developer and&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>A Semantic-Convolutional Generative Adversarial Network for &lt;b&gt;privacy&lt;/b&gt;-preserving image de ...</title>
@@ -11966,15 +11804,6 @@
     <content type="html">The quantitative characterization of peptide–&lt;b&gt;protein&lt;/b&gt; interactions remains a persistent challenge in computational biology, limiting mechanistic&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>In Her Own Words: Courtney Williams wants to make rural pregnancies safer - Bizwomen</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bizjournals.com/denver/bizwomen/news/mentoring-matters/2026/08/in-her-own-words-courtney-williams.html&amp;ct=ga&amp;cd=CAIyGjc1ZDg1M2ZkYjkxNDJlNDk6Y29tOmVuOlVT&amp;usg=AOvVaw2uZFrIhfIzk8Cox-0s3psj"/>
-    <id>tag:google.com,2013:googlealerts/feed:6021569370290370293</id>
-    <published>2026-08-19T09:48:24Z</published>
-    <updated>2026-08-19T09:48:24Z</updated>
-    <category term="Seed Health"/>
-    <content type="html">... &lt;b&gt;seed&lt;/b&gt; that grew ... As importantly, access 24/7 to prenatal and postpartum &lt;b&gt;health&lt;/b&gt; and mental &lt;b&gt;health&lt;/b&gt; resources at a time when access is shrinking.</content>
-  </entry>
-  <entry>
     <title>Stock recommendations for 19 August from MarketSmith India - TradingView</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.tradingview.com/news/moodys:071ca3f54986c:0-stock-recommendations-for-19-august-from-marketsmith-india/&amp;ct=ga&amp;cd=CAIyGjY2ZWRlMWYwZThmMzRmNWQ6Y29tOmVuOlVT&amp;usg=AOvVaw0ZqWR7hNCHpUvtiEjtCP_G"/>
     <id>tag:google.com,2013:googlealerts/feed:10512351461412819023</id>
@@ -12011,15 +11840,6 @@
     <content type="html">Poli &amp;amp; Gazan | Kinchara &lt;b&gt;din din din&lt;/b&gt; dance · @dubkovapo. Like. 0. Share. Please sign in. This helps protect our community. Learn more.</content>
   </entry>
   <entry>
-    <title>UNC &lt;b&gt;Health&lt;/b&gt; relaunches venture capital fund with $125 million - Raleigh News &amp;amp; Observer</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.newsobserver.com/news/business/article316920783.html&amp;ct=ga&amp;cd=CAIyGjc1ZDg1M2ZkYjkxNDJlNDk6Y29tOmVuOlVT&amp;usg=AOvVaw12oPIWqoHadlFEYZu8G7hy"/>
-    <id>tag:google.com,2013:googlealerts/feed:3785596919622820873</id>
-    <published>2026-08-19T09:24:24Z</published>
-    <updated>2026-08-19T09:24:24Z</updated>
-    <category term="Seed Health"/>
-    <content type="html">UNC &lt;b&gt;Health&lt;/b&gt; Ventures succeeds the Rex &lt;b&gt;Health&lt;/b&gt; Ventures fund that was created in 2012 with $10 million in &lt;b&gt;seed&lt;/b&gt; money. Rex &lt;b&gt;Health&lt;/b&gt; Ventures has&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Chandigarh drowns in rain, Madhya Marg bears the &lt;b&gt;brunt&lt;/b&gt; - The Indian Express</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://indianexpress.com/article/cities/chandigarh/chandigarh-drowns-in-rain-madhya-marg-bears-the-brunt-10839818/lite/&amp;ct=ga&amp;cd=CAIyGjY2ZWRlMWYwZThmMzRmNWQ6Y29tOmVuOlVT&amp;usg=AOvVaw3NNOLUcq9zCPv4kcvKjuzf"/>
     <id>tag:google.com,2013:googlealerts/feed:17363642507933243430</id>
@@ -12054,15 +11874,6 @@
     <updated>2026-08-19T09:15:57Z</updated>
     <category term="Rhone"/>
     <content type="html">Forest fire in Vaugneray (&lt;b&gt;Rhône&lt;/b&gt;). Share your information, photos, and videos to keep the feuxdeforet.fr community informed.</content>
-  </entry>
-  <entry>
-    <title>&lt;b&gt;REI&lt;/b&gt; Engineering&amp;#39;s sunflower field welcomes visitors while blooms last - Wausau Daily Herald</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wausaudailyherald.com/story/news/local/2026/08/19/rei-engineerings-wausau-sunflower-field-welcomes-visitors-while-blooms-last/91292650007/&amp;ct=ga&amp;cd=CAIyGmU5ZDVkY2Q1ODAxNTdmNTQ6Y29tOmVuOlVT&amp;usg=AOvVaw2IlbSCRNWa7KUodcCstwqe"/>
-    <id>tag:google.com,2013:googlealerts/feed:5544875098884549581</id>
-    <published>2026-08-19T09:12:36Z</published>
-    <updated>2026-08-19T09:12:36Z</updated>
-    <category term="REI"/>
-    <content type="html">The &lt;b&gt;REI&lt;/b&gt; Engineering sunflower field in Wausau is open for visitors to pick flowers and donate nonperishable food to Peyton&amp;#39;s Promise.</content>
   </entry>
   <entry>
     <title>Here&amp;#39;s how much more you could pay for petrol and diesel in September - Sowetan</title>
@@ -12110,15 +11921,6 @@
     <content type="html">It was listed for reimbursement and launched in December in &lt;b&gt;vial&lt;/b&gt; and prefilled syringe formulations, both priced at 198,000 won ($142) per unit. The&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Price to sales forward of &lt;b&gt;WeWork&lt;/b&gt; India Management Limited - TradingView</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.tradingview.com/symbols/NSE-WEWORK/financials-statistics-and-ratios/price-sales-fwd/&amp;ct=ga&amp;cd=CAIyGjFjYjNiZjY5OWI2ZTU4ZDg6Y29tOmVuOlVT&amp;usg=AOvVaw2u7zwM3xuSMLhzaJZQ2rsU"/>
-    <id>tag:google.com,2013:googlealerts/feed:8738044008399216010</id>
-    <published>2026-08-19T08:53:30Z</published>
-    <updated>2026-08-19T08:53:30Z</updated>
-    <category term="WeWork"/>
-    <content type="html">Price to sales forward, quarterly and annual stats of &lt;b&gt;WeWork&lt;/b&gt; India Management Limited.</content>
-  </entry>
-  <entry>
     <title>Sullivan County suspends license plate readers amid &lt;b&gt;privacy&lt;/b&gt; concerns and public controversy</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wbir.com/video/news/politics/sullivan-county-suspends-license-plate-readers-amid-privacy-concerns-and-public-controversy/51-7205e2be-7d95-441e-84a4-e6a212d5b19e&amp;ct=ga&amp;cd=CAIyGmM4NDg1ZDI5MzM0NzBkNjQ6Y29tOmVuOlVT&amp;usg=AOvVaw31ddDpxwTm5ZlxO7AaI1TS"/>
     <id>tag:google.com,2013:googlealerts/feed:2267155442321637837</id>
@@ -12135,6 +11937,15 @@
     <updated>2026-08-19T08:45:29Z</updated>
     <category term="Welle North America"/>
     <content type="html">In announcing scaled back joint military drills with South Korea, the &lt;b&gt;US&lt;/b&gt; president appears to be moving toward Pyongyang just as &lt;b&gt;North&lt;/b&gt; Korea&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>Cantor Fitzgerald Reiterates Overweight on &lt;b&gt;Quince&lt;/b&gt; Therapeutics, Maintains $70 Price Target</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sahmcapital.com/news/content/cantor-fitzgerald-reiterates-overweight-on-quince-therapeutics-maintains-70-price-target-2026-08-18&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw1eb5v2CHsmFl3BzQd6skwr"/>
+    <id>tag:google.com,2013:googlealerts/feed:11120286387710480053</id>
+    <published>2026-08-19T08:37:52Z</published>
+    <updated>2026-08-19T08:37:52Z</updated>
+    <category term="Quince"/>
+    <content type="html">Cantor Fitzgerald analyst Olivia Brayer Saunders reiterates &lt;b&gt;Quince&lt;/b&gt; Therapeutics (NASDAQ:QNCX) with a Overweight and maintains $70 price target.</content>
   </entry>
   <entry>
     <title>Sweater Weather Starts at Home: &lt;b&gt;Wayfair&amp;#39;s&lt;/b&gt; Coziest Fall Textiles - 22 Words</title>
@@ -12299,15 +12110,6 @@
     <content type="html">&lt;b&gt;Blue Apron&lt;/b&gt;, a meal kit powerhouse once valued at $2B, descends into chaos.</content>
   </entry>
   <entry>
-    <title>Arkansas farmer&amp;#39;s improved soil &lt;b&gt;health&lt;/b&gt; has slashed input costs - Farm Progress</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.farmprogress.com/soil-health/healthy-soil-is-slashing-operating-expenses-on-this-arkansas-farm&amp;ct=ga&amp;cd=CAIyGjc1ZDg1M2ZkYjkxNDJlNDk6Y29tOmVuOlVT&amp;usg=AOvVaw3z3LYXRZePyFIzCJibznOi"/>
-    <id>tag:google.com,2013:googlealerts/feed:2401550347018312783</id>
-    <published>2026-08-19T07:16:09Z</published>
-    <updated>2026-08-19T07:16:09Z</updated>
-    <category term="Seed Health"/>
-    <content type="html">“This is a really cheap soybean crop that we have here behind us.” Soybean &lt;b&gt;seed&lt;/b&gt; was no-tilled into a chest-deep cover crop around mid-April, reducing&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>Pro women&amp;#39;s team Upshot Nashville adds partners ahead of inaugural season</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bizjournals.com/nashville/news/2026/08/18/upshot-nashville-womens-basketball-partners-name.html&amp;ct=ga&amp;cd=CAIyGjQ3M2IwMGNjNDNiOTAxYzI6Y29tOmVuOlVT&amp;usg=AOvVaw2jWlFmUfBXoRFSX-TAUzSj"/>
     <id>tag:google.com,2013:googlealerts/feed:6838788002832801943</id>
@@ -12371,15 +12173,6 @@
     <content type="html">... Event CalendarPodcast. LSF. ASE. &lt;b&gt;Laird Superfood&lt;/b&gt;, Inc. (LSF). Add to Watchlist. 4.3. USD. -0.17. 3.8%. Today. Closed：Aug 18, 4:00 PM [New York·UTC-4].</content>
   </entry>
   <entry>
-    <title>Cathie Wood&amp;#39;s ARK Buys $1.34M in Block, $899K in &lt;b&gt;Cloudflare&lt;/b&gt; as Fintech Bet Grows</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cryptotimes.io/2026/08/19/cathie-woods-ark-buys-1-34m-in-block-899k-in-cloudflare-as-fintech-bet-grows/&amp;ct=ga&amp;cd=CAIyGmExNTM1NjdmMTJkNWNlNjE6Y29tOmVuOlVT&amp;usg=AOvVaw0EEpHC91NwpKYnkYHTFr5F"/>
-    <id>tag:google.com,2013:googlealerts/feed:7426760744672105386</id>
-    <published>2026-08-19T06:37:35Z</published>
-    <updated>2026-08-19T06:37:35Z</updated>
-    <category term="Cloudflare"/>
-    <content type="html">ARK Invest buys $1.34M of Block, $899K &lt;b&gt;Cloudflare&lt;/b&gt; and $185K Securitize, while adding Rocket Lab and Cerebras and trimming AMD and Shopify.</content>
-  </entry>
-  <entry>
     <title>Q4 2025 &lt;b&gt;Liberty Latin America&lt;/b&gt; Ltd Earnings Call Transcript - GuruFocus</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.gurufocus.com/stock/WBO:LILC/transcripts/8633308&amp;ct=ga&amp;cd=CAIyGjE2MDk5OTljNjc4N2MzMmQ6Y29tOmVuOlVT&amp;usg=AOvVaw0VuNTy6qmLlNgEiPYY9Gp9"/>
     <id>tag:google.com,2013:googlealerts/feed:11126013350025863224</id>
@@ -12405,6 +12198,15 @@
     <updated>2026-08-19T06:25:55Z</updated>
     <category term="Udemy"/>
     <content type="html">This revenue increase is partly attributed to the integration of &lt;b&gt;Udemy&lt;/b&gt;, which Coursera recently acquired. The company also widened its gross&amp;nbsp;...</content>
+  </entry>
+  <entry>
+    <title>New Mom-Loved Macy&amp;#39;s End-of-Season Fashion Deals - Real Simple</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.realsimple.com/macys-mom-approved-fashion-deals-august-2026-12035328&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw3ldpnb9OH3s6LDS5KIgh0q"/>
+    <id>tag:google.com,2013:googlealerts/feed:9018098961327800816</id>
+    <published>2026-08-19T06:06:52Z</published>
+    <updated>2026-08-19T06:06:52Z</updated>
+    <category term="Quince"/>
+    <content type="html">&lt;b&gt;Quince&amp;#39;s&lt;/b&gt; New Fall Drop Is Packed With Soft Sweaters and Elevated ... &lt;b&gt;Quince&lt;/b&gt; Restocked a Ton of Wardrobe Staples Perfect for Layering—Snag&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>Spotify&amp;#39;s Co-Founder Is Launching a $499 Body Scan. 350,000 People Are Already on the Wait List</title>
@@ -12614,15 +12416,6 @@
     <content type="html">00:24she&amp;#39;s one of the &lt;b&gt;Golf&lt;/b&gt; Monthly top 50 coaches &lt;b&gt;and&lt;/b&gt; she&amp;#39;s &lt;b&gt;going to&lt;/b&gt; talk you through everything. 00:28you need to know &lt;b&gt;and&lt;/b&gt; it should help you in&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>&lt;b&gt;WEWORK&lt;/b&gt; | US96209A4013 | Euronext exchange Live quotes</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://live.euronext.com/el/product/equities/US96209A4013-MTAH&amp;ct=ga&amp;cd=CAIyGjFjYjNiZjY5OWI2ZTU4ZDg6Y29tOmVuOlVT&amp;usg=AOvVaw1fbR26eq3oY6_a9y0cyGy-"/>
-    <id>tag:google.com,2013:googlealerts/feed:17855818692602569197</id>
-    <published>2026-08-19T03:56:50Z</published>
-    <updated>2026-08-19T03:56:50Z</updated>
-    <category term="WeWork"/>
-    <content type="html">Stock &lt;b&gt;WEWORK&lt;/b&gt; Common Stock US96209A4013 MTAH Trading After Hours Live Euronext quotes, realtime prices, charts and regulated news.</content>
-  </entry>
-  <entry>
     <title>William Greene - Director Product, B2B - LinkedIn</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.linkedin.com/posts/wagreene_director-product-b2b-activity-7495580830535376897-o1dr&amp;ct=ga&amp;cd=CAIyGjljN2ZhMzAyMjUyZmRhZTI6Y29tOmVuOlVT&amp;usg=AOvVaw2gPUy1nymqwCylrVX2Wln6"/>
     <id>tag:google.com,2013:googlealerts/feed:6645526532645435396</id>
@@ -12776,15 +12569,6 @@
     <content type="html">... &lt;b&gt;businesses&lt;/b&gt; whose claims were closed without payment must now pursue litigation to secure their refunds. Unlike the tax preparation firms in &lt;b&gt;ERC&lt;/b&gt;&amp;nbsp;...</content>
   </entry>
   <entry>
-    <title>Scores &amp;amp; Schedule - Tennis - BBC Sport</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bbc.com/sport/tennis/scores-and-schedule/2026-08-19%3Ffilter%3Dlive&amp;ct=ga&amp;cd=CAIyGjc1ZDg1M2ZkYjkxNDJlNDk6Y29tOmVuOlVT&amp;usg=AOvVaw3sQum-94dcCvVPtgZMsmwt"/>
-    <id>tag:google.com,2013:googlealerts/feed:3936513964001117450</id>
-    <published>2026-08-19T01:33:18Z</published>
-    <updated>2026-08-19T01:33:18Z</updated>
-    <category term="Seed Health"/>
-    <content type="html">(22)&lt;b&gt;Seed&lt;/b&gt; ranking 22. 3. United States. Jovic. Iva Jovic. (13)&lt;b&gt;Seed&lt;/b&gt; ranking 13. 4. Stadium. Men&amp;#39;s Singles - Round of 32. Learner Tien (United States) (&amp;nbsp;...</content>
-  </entry>
-  <entry>
     <title>US-Apple-Books-Top-10 - CTPost</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ctpost.com/entertainment/article/us-apple-books-top-10-22393104.php&amp;ct=ga&amp;cd=CAIyGmMwZDk1ZDhiZWMyYTAxYmQ6Y29tOmVuOlVT&amp;usg=AOvVaw2Dsno_LDBXQeyfS3e5FC6G"/>
     <id>tag:google.com,2013:googlealerts/feed:2780591179211835172</id>
@@ -12792,15 +12576,6 @@
     <updated>2026-08-19T01:25:53Z</updated>
     <category term="Macmillan Publishers"/>
     <content type="html">The Secrets We Hide by Karin Slaughter (HarperCollins Publishers ). 4. Dungeon ... Mad Mabel by Sally Hepworth (&lt;b&gt;Macmillan Publishing&lt;/b&gt; Group, LLC ).</content>
-  </entry>
-  <entry>
-    <title>Midi &lt;b&gt;Health&lt;/b&gt; Expands Beyond Menopause Care With New Brand Identity | Femtech Insider</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://femtechinsider.com/midi-health-expands-beyond-menopause-care-with-new-brand-identity/&amp;ct=ga&amp;cd=CAIyGjc1ZDg1M2ZkYjkxNDJlNDk6Y29tOmVuOlVT&amp;usg=AOvVaw0qEAUau41gyxt0KH20kW03"/>
-    <id>tag:google.com,2013:googlealerts/feed:9778188156869577781</id>
-    <published>2026-08-19T01:21:38Z</published>
-    <updated>2026-08-19T01:21:38Z</updated>
-    <category term="Seed Health"/>
-    <content type="html">By Femtech Insider Announcement, Digital &lt;b&gt;Health&lt;/b&gt;, Menopause, News, Women&amp;#39;s &lt;b&gt;Health&lt;/b&gt; 12 hours ago ... Kiara &lt;b&gt;Health&lt;/b&gt; Secures Pre-&lt;b&gt;Seed&lt;/b&gt; Funding For Personalized&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>ABLES, IANNONE, &lt;b&gt;MOORE&lt;/b&gt; &amp;amp; ASSOCIATES, INC.&amp;#39;s Alerian MLP ETF(AMLP) Holding History</title>
@@ -12929,6 +12704,15 @@
     <content type="html">Discover the latest insider transactions for Jaime Larraín &lt;b&gt;Vial&lt;/b&gt;. Sort and filter by importance and transaction type. The entire stock market is on&amp;nbsp;...</content>
   </entry>
   <entry>
+    <title>Vehicle Crash With Injuries in Riverdale Rd &amp;amp; &lt;b&gt;Quince&lt;/b&gt; Rd - Citizen app</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://citizen.com/-P-LbYsorpBtsL6kGHZi&amp;ct=ga&amp;cd=CAIyGmQ0NWVmZTExY2Q4OWU0ZTI6Y29tOmVuOlVT&amp;usg=AOvVaw1KRSjJDX3t2bhz8NjoQZbL"/>
+    <id>tag:google.com,2013:googlealerts/feed:9454995896732118832</id>
+    <published>2026-08-18T23:21:47Z</published>
+    <updated>2026-08-18T23:21:47Z</updated>
+    <category term="Quince"/>
+    <content type="html">Timeline. Aug 18, 4:44PM. A 911 caller has reported an unconfirmed incident at Riverdale Rd &amp;amp; &lt;b&gt;Quince&lt;/b&gt; Rd.</content>
+  </entry>
+  <entry>
     <title>Sydney Sweeney&amp;#39;s &lt;b&gt;Erewhon&lt;/b&gt; smoothie a new viral hit | The Times (Shreveport)</title>
     <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pressreader.com/usa/the-times-shreveport/20260819/281663966845180&amp;ct=ga&amp;cd=CAIyGjY1M2I3MjE3NWM5N2Q1ODI6Y29tOmVuOlVT&amp;usg=AOvVaw0A0acBf4TKBhoGArUjaIr2"/>
     <id>tag:google.com,2013:googlealerts/feed:2281732258702528794</id>
@@ -13026,15 +12810,6 @@
     <updated>2026-08-18T20:02:42Z</updated>
     <category term="Seed Health"/>
     <content type="html">“The Do Worthwhile Work campaign for youth plants a &lt;b&gt;seed&lt;/b&gt; ... As Smoking Returns to Pop Culture, Dignity &lt;b&gt;Health&lt;/b&gt; Physicians Warn the &lt;b&gt;Health&lt;/b&gt; Risks Haven&amp;#39;t&amp;nbsp;...</content>
-  </entry>
-  <entry>
-    <title>Summer Impaired Driving Campaign sees BC Highway Patrol issue 229 driving prohibitions</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://rcmp.ca/en/bc/bchp/news/2026/08/4356027%3Futm_source%3Dsquamish%2520chief%26utm_campaign%3Dsquamish%2520chief%253A%2520outbound%26utm_medium%3Dreferral&amp;ct=ga&amp;cd=CAIyGmJlOWU0NzRlOGMxMDdmNTQ6Y29tOmVuOlVT&amp;usg=AOvVaw14zxibc4VyHd_UE9KIUDE5"/>
-    <id>tag:google.com,2013:googlealerts/feed:13583152344069438239</id>
-    <published>2026-08-18T19:48:44Z</published>
-    <updated>2026-08-18T19:48:44Z</updated>
-    <category term="Revelstoke"/>
-    <content type="html">Kootenay region (including &lt;b&gt;Revelstoke&lt;/b&gt;, Nelson, Cranbrook, Golden). 13. 2. Vancouver Island. 32. 4. South Coast (including Metro Vancouver, Sea to Sky&amp;nbsp;...</content>
   </entry>
   <entry>
     <title>The &lt;b&gt;Ice Cream&lt;/b&gt; Capital Of The World Is Located In A Small City - AOL</title>
